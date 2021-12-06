@@ -1,0 +1,199 @@
+﻿Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+DENA,Denali National Park and Preserve,Mammal,1,Artiodactyla,Bovidae,95060,180710,Active,Ovis dalli,Dall's sheep,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Artiodactyla,Cervidae,95052,180703,Active,Alces alces,Moose,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Artiodactyla,Cervidae,95050,180701,Active,Rangifer tarandus,Caribou,Rangifer arcticus,Present
+DENA,Denali National Park and Preserve,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Carnivora,Canidae,93337,180596,Active,Canis lupus,"Gray wolf, Wolf",Canis lupus pambasileus,Present
+DENA,Denali National Park and Preserve,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,Red fox,Vulpes fulvus,Present
+DENA,Denali National Park and Preserve,Mammal,1,Carnivora,Felidae,93325,180585,Active,Lynx canadensis,Lynx,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Carnivora,Mustelidae,93288,180551,Active,Gulo gulo,Wolverine,"Gulo luscus, Gulo hylaeus",Present
+DENA,Denali National Park and Preserve,Mammal,1,Carnivora,Mustelidae,93285,180549,Active,Lontra canadensis,River otter,,Probably Present
+DENA,Denali National Park and Preserve,Mammal,1,Carnivora,Mustelidae,93296,180559,Active,Martes americana,American Marten,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Carnivora,Mustelidae,93292,180555,Active,Mustela erminea,"Ermine, Short-tailed weasel",Mustela erminea arctica,Present
+DENA,Denali National Park and Preserve,Mammal,1,Carnivora,Mustelidae,93291,180554,Active,Mustela nivalis,Least weasel,Mustela rixosa,Present
+DENA,Denali National Park and Preserve,Mammal,1,Carnivora,Mustelidae,93290,180553,Active,Mustela vison,Mink,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,"American black bear, Black bear",,Present
+DENA,Denali National Park and Preserve,Mammal,1,Carnivora,Ursidae,93279,180543,Active,Ursus arctos,"Brown bear, Grizzly bear",,Present
+DENA,Denali National Park and Preserve,Mammal,1,Lagomorpha,Leporidae,89638,180112,Active,Lepus americanus,Snowshoe hare,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Lagomorpha,Ochotonidae,89633,180108,Active,Ochotona collaris,Collared pika,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,American beaver,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Cricetidae,90762,180293,Active,Clethrionomys rutilus,"Northern red-backed vole, Red-backed vole",Clethrionomys rutilus dawsoni,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Cricetidae,115313,203526,Active,Lemmus trimucronatus,Brown lemming,"Lemmus sibiricus, Lemmus trimucronatus alascensis",Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Cricetidae,91699,180309,Active,Microtus miurus,Singing vole,Microtus miurus oreas,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Cricetidae,90767,180298,Active,Microtus oeconomus,Tundra vole,Microtus oeconomus operarius,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Cricetidae,90766,180297,Active,Microtus pennsylvanicus,Meadow vole,Microtus drummondi,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Cricetidae,91691,180301,Active,Microtus xanthognathus,"Taiga vole, Yellow-cheeked vole",,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,Muskrat,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Cricetidae,91715,180323,Active,Synaptomys borealis,Northern bog lemming,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Dipodidae,91784,180386,Active,Zapus hudsonius,Meadow jumping mouse,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,Porcupine,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Sciuridae,89700,180169,Active,Glaucomys sabrinus,Northern flying squirrel,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Sciuridae,89667,180139,Active,Marmota caligata,Hoary marmot,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Sciuridae,89675,180146,Active,Spermophilus parryii,Arctic ground squirrel,"Spermophilus undulatus, Citellus parryi, Citellus parryi oblusus",Present
+DENA,Denali National Park and Preserve,Mammal,1,Rodentia,Sciuridae,89697,180166,Active,Tamiasciurus hudsonicus,Red squirrel,Tamiasciurus hudsonicus preblei,Present
+DENA,Denali National Park and Preserve,Mammal,1,Soricomorpha,Soricidae,88122,179929,Active,Sorex cinereus,"Cinereus shrew, Common shrew, Masked shrew",,Present
+DENA,Denali National Park and Preserve,Mammal,1,Soricomorpha,Soricidae,88660,179946,Active,Sorex hoyi,Pygmy shrew,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Soricomorpha,Soricidae,88665,179950,Active,Sorex monticolus,"Dusky shrew, Montane shrew","Sorex obscurus, Sorex obscurus obscurus",Present
+DENA,Denali National Park and Preserve,Mammal,1,Soricomorpha,Soricidae,88127,179933,Active,Sorex palustris,Water shrew,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Soricomorpha,Soricidae,88672,179957,Active,Sorex tundrensis,Tundra shrew,,Present
+DENA,Denali National Park and Preserve,Mammal,1,Soricomorpha,Soricidae,267659,555663,Active,Sorex yukonicus,Tiny shrew,,Present
+DENA,Denali National Park and Preserve,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern goshawk,,Present
+DENA,Denali National Park and Preserve,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned hawk,,Present
+DENA,Denali National Park and Preserve,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden eagle,,Present
+DENA,Denali National Park and Preserve,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed hawk,,Present
+DENA,Denali National Park and Preserve,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,Rough-legged hawk,,Present
+DENA,Denali National Park and Preserve,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's hawk,,Present
+DENA,Denali National Park and Preserve,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern harrier,,Present
+DENA,Denali National Park and Preserve,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald eagle,,Present
+DENA,Denali National Park and Preserve,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern pintail,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American wigeon,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern shoveler,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged teal,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged teal,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,77802,175092,Active,Anas penelope,Eurasian wigeon,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,77781,175073,Active,Anas strepera,Gadwall,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,77723,175020,Active,Anser albifrons,Greater white-fronted goose,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78519,175134,Active,Aythya affinis,Lesser scaup,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,77839,175125,Active,Aythya americana,Redhead,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78512,175128,Active,Aythya collaris,Ring-necked duck,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78515,175130,Active,Aythya marila,Greater scaup,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78513,175129,Active,Aythya valisineria,Canvasback,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,77713,175011,Active,Branta bernicla,Brant,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada goose,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78531,175145,Active,Bucephala albeola,Bufflehead,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78527,175141,Active,Bucephala clangula,Common goldeneye,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78530,175144,Active,Bucephala islandica,Barrow's goldeneye,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,77742,175038,Active,Chen caerulescens,Snow goose,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78533,175147,Active,Clangula hyemalis,Long-tailed Duck,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,76618,174992,Active,Cygnus buccinator,Trumpeter swan,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,76612,174987,Active,Cygnus columbianus,Tundra swan,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78535,175149,Active,Histrionicus histrionicus,Harlequin duck,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78551,175163,Active,Melanitta fusca,White-winged scoter,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78560,175171,Active,Melanitta nigra,Black scoter,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78559,175170,Active,Melanitta perspicillata,Surf scoter,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78575,175185,Active,Mergus merganser,Common merganser,,Present
+DENA,Denali National Park and Preserve,Bird,2,Anseriformes,Anatidae,78577,175187,Active,Mergus serrator,Red-breasted merganser,,Present
+DENA,Denali National Park and Preserve,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous hummingbird,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Alcidae,81924,176996,Active,Brachyramphus marmoratus,Long-billed murrelet,,Probably Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Charadriidae,77630,176506,Active,Charadrius semipalmatus,Semipalmated plover,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Probably Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Charadriidae,77694,176564,Active,Pluvialis dominica,American golden-plover,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Charadriidae,77697,176567,Active,Pluvialis squatarola,Black-bellied plover,,Probably Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Laridae,81064,176824,Active,Larus argentatus,Herring gull,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Laridae,81073,176832,Active,Larus canus,Mew gull,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Laridae,80383,176814,Active,Larus glaucescens,Glaucous-winged gull,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Laridae,81080,176839,Active,Larus philadelphia,Bonaparte's gull,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Laridae,81137,176890,Active,Sterna paradisaea,Arctic tern,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79222,176612,Active,Actitis macularia,Spotted sandpiper,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79289,176673,Active,Aphriza virgata,Surfbird,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,77702,176571,Active,Arenaria interpres,Ruddy turnstone,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,77705,176574,Active,Arenaria melanocephala,Black turnstone,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79220,176610,Active,Bartramia longicauda,Upland sandpiper,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79284,176669,Active,Calidris alba,Sanderling,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79276,176661,Active,Calidris alpina,Dunlin,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79269,176655,Active,Calidris bairdii,Baird's sandpiper,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79283,176668,Active,Calidris mauri,Western sandpiper,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79267,176653,Active,Calidris melanotos,Pectoral sandpiper,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79270,176656,Active,Calidris minutilla,Least sandpiper,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79282,176667,Active,Calidris pusilla,Semipalmated sandpiper,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,631807,726048,Active,Gallinago delicata,Wilson's Snipe,Gallinago gallinago,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79295,176679,Active,Limnodromus scolopaceus,Long-billed dowitcher,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79308,176690,Active,Limosa haemastica,Hudsonian godwit,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79206,176599,Active,Numenius phaeopus,Whimbrel,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,80294,176734,Active,Phalaropus fulicarius,Red phalarope,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,80295,176735,Active,Phalaropus lobatus,Red-necked phalarope,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79231,176620,Active,Tringa flavipes,Lesser yellowlegs,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79242,176630,Active,Tringa incana,Wandering Tattler,Heteroscelus incanus,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79229,176619,Active,Tringa melanoleuca,Greater yellowlegs,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Scolopacidae,79225,176615,Active,Tringa solitaria,Solitary sandpiper,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Stercorariidae,80360,176794,Active,Stercorarius longicaudus,Long-tailed jaeger,,Present
+DENA,Denali National Park and Preserve,Bird,2,Charadriiformes,Stercorariidae,80358,176792,Active,Stercorarius pomarinus,Pomarine jaeger,,Present
+DENA,Denali National Park and Preserve,Bird,2,Coraciiformes,Alcedinidae,83980,178119,Active,Ceryle alcyon,Belted kingfisher,,Present
+DENA,Denali National Park and Preserve,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+DENA,Denali National Park and Preserve,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrin falcon,,Present
+DENA,Denali National Park and Preserve,Bird,2,Falconiformes,Falconidae,81847,175599,Active,Falco rusticolus,Gyrfalcon,,Present
+DENA,Denali National Park and Preserve,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American kestrel,,Present
+DENA,Denali National Park and Preserve,Bird,2,Galliformes,Phasianidae,83131,175790,Active,Bonasa umbellus,Ruffed grouse,,Present
+DENA,Denali National Park and Preserve,Bird,2,Galliformes,Phasianidae,83147,175804,Active,Lagopus lagopus,Willow ptarmigan,Lagopus lagopus alascensis,Present
+DENA,Denali National Park and Preserve,Bird,2,Galliformes,Phasianidae,529883,677541,Active,Lagopus leucura,White-tailed Ptarmigan,Lagopus leucurus,Present
+DENA,Denali National Park and Preserve,Bird,2,Galliformes,Phasianidae,529885,677542,Active,Lagopus muta,Rock Ptarmigan,Lagopus mutus,Present
+DENA,Denali National Park and Preserve,Bird,2,Gaviiformes,Gaviidae,81673,174470,Active,Gavia adamsii,Yellow-billed loon,,Present
+DENA,Denali National Park and Preserve,Bird,2,Gaviiformes,Gaviidae,81671,174469,Active,Gavia immer,Common loon,,Present
+DENA,Denali National Park and Preserve,Bird,2,Gaviiformes,Gaviidae,81678,174475,Active,Gavia pacifica,Pacific loon,,Present
+DENA,Denali National Park and Preserve,Bird,2,Gaviiformes,Gaviidae,81677,174474,Active,Gavia stellata,Red-throated loon,,Present
+DENA,Denali National Park and Preserve,Bird,2,Gruiformes,Gruidae,86496,176177,Active,Grus canadensis,Sandhill crane,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned lark,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Bombycillidae,88292,178529,Active,Bombycilla garrulus,Bohemian waxwing,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Calcariidae,85681,179526,Active,Calcarius lapponicus,Lapland longspur,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Calcariidae,85688,179532,Active,Plectrophenax nivalis,Snow bunting,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western tanager,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown creeper,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Cinclidae,88300,178536,Active,Cinclus mexicanus,American dipper,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common raven,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller's jay,,Probably Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Corvidae,86237,179667,Active,Perisoreus canadensis,Gray jay,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Corvidae,626506,726117,Active,Pica hudsonia,Black-billed Magpie,Pica pica,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Emberizidae,84754,179410,Active,Junco hyemalis,Dark-eyed junco,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Emberizidae,83846,179314,Active,Passerculus sandwichensis,Savannah sparrow,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Emberizidae,85612,179464,Active,Passerella iliaca,Fox sparrow,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Emberizidae,84778,179432,Active,Spizella arborea,American tree sparrow,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Emberizidae,85609,179461,Active,Zonotrichia atricapilla,Golden-crowned sparrow,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Emberizidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned sparrow,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Fringillidae,95280,179230,Active,Carduelis flammea,Common redpoll,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Fringillidae,95281,179231,Active,Carduelis hornemanni,Hoary redpoll,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine siskin,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Fringillidae,673778,-746185,Active,Leucosticte arctous,Rosy Finch,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Fringillidae,94329,179215,Active,Leucosticte tephrocotis,Gray-crowned rosy finch,Leucosticte arctoa,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Fringillidae,83794,179268,Active,Loxia leucoptera,White-winged crossbill,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Fringillidae,94318,179205,Active,Pinicola enucleator,Pine grosbeak,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,Hirundo pyrrhonota,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Hirundinidae,87396,178436,Active,Riparia riparia,Bank swallow,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree swallow,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green swallow,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged blackbird,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Icteridae,93664,179091,Active,Euphagus carolinus,Rusty blackbird,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed cowbird,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Laniidae,88273,178511,Active,Lanius excubitor,Northern shrike,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Motacillidae,87454,178489,Active,Anthus spinoletta,American pipit,Anthus rubescens,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Muscicapidae,87198,179814,Active,Oenanthe oenanthe,Northern wheatear,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Muscicapidae,745395,-9783592,Active,Phyllocopus borealis,Arctic Warbler,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped warbler,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,Yellow warbler,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Parulidae,92674,178913,Active,Dendroica striata,Blackpoll warbler,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Parulidae,92655,178897,Active,Dendroica townsendi,Townsend's warbler,,Probably Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Parulidae,942308,950097,Active,Oreothlypis peregrina,Tennessee Warbler,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern waterthrush,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American redstart,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned warbler,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Parulidae,92740,178973,Active,Wilsonia pusilla,Wilson's warbler,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Phylloscopidae,88027,179843,Active,Phylloscopus borealis,Arctic warbler,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned kinglet,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned kinglet,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted nuthatch,,Probably Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European starling,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit thrush,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Turdidae,87174,179793,Active,Catharus minimus,Gray-cheeked thrush,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's thrush,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Turdidae,87152,179773,Active,Ixoreus naevius,Varied thrush,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's solitaire,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American robin,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,Olive-sided Flycatcher,Contopus borealis,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western wood-pewee,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Tyrannidae,85826,178340,Active,Empidonax alnorum,Alder flycatcher,,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Tyrannidae,264075,554254,Active,Empidonax hammondii,Hammond's Flycatcher,Empidonax hammondi,Present
+DENA,Denali National Park and Preserve,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's phoebe,,Present
+DENA,Denali National Park and Preserve,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern flicker,,Present
+DENA,Denali National Park and Preserve,Bird,2,Piciformes,Picidae,84927,178250,Active,Picoides arcticus,Black-backed woodpecker,,Present
+DENA,Denali National Park and Preserve,Bird,2,Piciformes,Picidae,546917,685725,Active,Picoides dorsalis,American Three-toed Woodpecker,Picoides tridactylus,Present
+DENA,Denali National Park and Preserve,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy woodpecker,,Present
+DENA,Denali National Park and Preserve,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy woodpecker,,Present
+DENA,Denali National Park and Preserve,Bird,2,Podicipediformes,Podicipedidae,81686,174482,Active,Podiceps auritus,Horned grebe,Podicep auritis,Present
+DENA,Denali National Park and Preserve,Bird,2,Podicipediformes,Podicipedidae,81682,174479,Active,Podiceps grisegena,Red-necked grebe,,Present
+DENA,Denali National Park and Preserve,Bird,2,Strigiformes,Strigidae,82974,177938,Active,Aegolius funereus,Boreal owl,,Present
+DENA,Denali National Park and Preserve,Bird,2,Strigiformes,Strigidae,82971,177935,Active,Asio flammeus,Short-eared owl,,Present
+DENA,Denali National Park and Preserve,Bird,2,Strigiformes,Strigidae,673823,-746206,Inactive,Bubo scandiaca,Snowy Owl,Nyctea scandiaca,Present
+DENA,Denali National Park and Preserve,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great horned owl,,Present
+DENA,Denali National Park and Preserve,Bird,2,Strigiformes,Strigidae,82964,177929,Active,Strix nebulosa,Great gray owl,,Present
+DENA,Denali National Park and Preserve,Bird,2,Strigiformes,Strigidae,80787,177898,Active,Surnia ulula,Northern hawk owl,,Present
