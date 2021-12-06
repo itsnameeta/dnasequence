@@ -1,0 +1,353 @@
+﻿Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+YOSE,Yosemite National Park,Mammal,1,Artiodactyla,Bovidae,891494,898931,Active,Ovis canadensis sierrae,Sierra Nevada bighorn sheep,,Present
+YOSE,Yosemite National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,"mule deer, Mule Deer","Odocoileus hemionus californicus, Dama hemionus californica",Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,mountain coyote,Canis latrans lestes,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,gray fox,,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Canidae,634054,726953,Active,Vulpes vulpes necator,Sierra Nevada red fox,Vulpes vulpes,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,Lynx rufus californicus,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,mountain lion,,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,Mephitis mephitis occidentalis,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Mephitidae,93309,180570,Active,Spilogale putorius,spotted skunk,"Spilogale gracilis, Spilogale putorius gracilis",Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Mustelidae,93288,180551,Active,Gulo gulo,Wolverine,,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Mustelidae,93285,180549,Active,Lontra canadensis,river otter,,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Mustelidae,93296,180559,Active,Martes americana,"American Marten, marten","Martes americana sierrae, Martes caurina sierrae",Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Mustelidae,93292,180555,Active,Mustela erminea,Ermine,Mustela erminea muricus,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,long-tailed weasel,"Mustela frenata arizonensis, Mustela frenata nevadensis",Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Mustelidae,629081,726284,Active,Neovison vison,American mink,Mustela vison,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Mustelidae,950237,,Inactive,Pekania pennanti,Fisher,Martes pennanti,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,badger,,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,Ringtail,Bassariscus astutus raptor,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,raccoon,,Present
+YOSE,Yosemite National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,black bear,,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Molossidae,89602,180080,Active,Eumops perotis,western mastiff bat,Eumops perotis californicus,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,Mexican free-tailed bat,Tadarida brasiliensis mexicana,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,Pallid bat,Antrozous pallidus pacificus,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's big-eared bat,Plecotus townsendii,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,big brown bat,Eptesicus fuscus bernardinus,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,88733,180010,Active,Euderma maculatum,"Pinto Bat, Spotted Bat",,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,"Black Bat, Silver-black Bat, Silver-haired Bat",,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,260642,552512,Active,Lasiurus blossevillii,western red bat,Lasiurus borealis,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,"Hoary Bat, Northern Hoary Bat",Lasiurus cinereus cinereus,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,California myotis,Myotis californicus californicus,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,small-footed myotis,Myotis leibii,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,"Long-eared Myotis, Western Long-eared Bat",Myotis evotis evotis,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,88706,179988,Active,Myotis lucifugus,little brown myotis,,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,fringed myotis,Myotis thysanodes thysanodes,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma Myotis,Myotis yumanensis sociabilis,Present
+YOSE,Yosemite National Park,Mammal,1,Chiroptera,Vespertilionidae,942700,947298,Active,Parastrellus hesperus,canyon bat,"Pipistrellus hesperus hesperus, Pipistrellus hesperus",Present
+YOSE,Yosemite National Park,Mammal,1,Didelphimorphia,Didelphidae,88114,179921,Active,Didelphis virginiana,Virginia Opossum,,Present
+YOSE,Yosemite National Park,Mammal,1,Lagomorpha,Leporidae,902240,900972,Active,Lepus americanus tahoensis,"Snowshoe Hare, Varying Hare",Lepus americanus,Present
+YOSE,Yosemite National Park,Mammal,1,Lagomorpha,Leporidae,630613,727914,Active,Lepus townsendii townsendii,western white-tailed jackrabbit,Lepus townsendii,Present
+YOSE,Yosemite National Park,Mammal,1,Lagomorpha,Leporidae,89650,180123,Active,Sylvilagus bachmani,"Brush Rabbit, Riparian Brush Rabbit",Sylvilagus bachmani mariposae,Present
+YOSE,Yosemite National Park,Mammal,1,Lagomorpha,Ochotonidae,89634,180109,Active,Ochotona princeps,pika,"Ochotona schisticeps muiri, Ochotona princeps muiri",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Aplodontiidae,115252,203471,Active,Aplodontia rufa californica,Sierra Nevada mountain beaver,Aplodontia rufa,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,beaver,,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Cricetidae,91695,180305,Active,Microtus californicus,California meadow mouse,Microtus californicus mariposae,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Cricetidae,90768,180299,Active,Microtus longicaudus,long-tailed vole,Microtus longicaudus sierrae,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Cricetidae,91701,180310,Active,Microtus montanus,Montane Vole,"Microtus montanus yosemite, Microtus montanus montanus",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,bushy-tailed woodrat,Neotoma cinerea acraia,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Cricetidae,731224,-9756957,Active,Neotoma macrotis streatori,big-eared woodrat,Neotoma macrotis,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,"Brush Deermouse, Brush Mouse",Peromyscus boylii boylii,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Cricetidae,90751,180283,Active,Peromyscus californicus,California mouse,,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,Sonoran deer mouse,"Peromyscus maniculatus sonoriensis, Peromyscus maniculatus gambelii",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Cricetidae,90760,180291,Active,Peromyscus truei,pinyon mouse,"Peromyscus truei gilberti, Peromyscus truei truei",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Cricetidae,91754,180359,Active,Phenacomys intermedius,"Heather Vole, Western Heather Vole",Phenacomys intermedius celsus,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,Reithrodontomys megalotis longicaudus,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Dipodidae,91785,180387,Active,Zapus princeps,Western Jumping Mouse,"Zapus princeps alleni, Zapus princeps pacificus",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,porcupine,Erethizon dorsatum epixanthum,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's Pocket Gopher,"Thomomys bottae awahnee, Thomomys bottae mewa",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Geomyidae,90689,180227,Active,Thomomys monticola,Mountain Pocket Gopher,Thomomys monticola monticola,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Heteromyidae,260597,552491,Active,Chaetodipus californicus,California pocket mouse,"Perognathus californicus dipar, Chaetodipus californicus dispar",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,House Mouse,,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Muridae,91758,180362,Active,Rattus rattus,black rat,,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,920484,930305,Active,Callospermophilus lateralis,golden-mantled ground squirrel,"Spermophilus lateralis, Spermophilus lateralis chrysodeirus, Callospermophilus chrysodeirus chrysodeirus",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,89700,180169,Active,Glaucomys sabrinus,Northern Flying Squirrel,Glaucomys sabrinus lascivus,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,89669,180140,Active,Marmota flaviventris,Yellow-bellied Marmot,Marmota flaviventris sierrae,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,920617,930301,Active,Otospermophilus beecheyi,California ground squirrel,"Spermophilus beecheyi sierrae, Spermophilus beecheyi, Spermophilus beecheyi fisheri",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,89708,180176,Active,Sciurus griseus,western gray squirrel,"Sciurus griseus griseus, Sciurus griseus california",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,90646,180189,Active,Tamias alpinus,alpine chipmunk,Eutamias alpinus,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,90648,180190,Active,Tamias amoenus,yellow-pine chipmunk,Eutamias amoenus monoensis,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,90652,180194,Active,Tamias merriami,Merriam's chipmunk,Eutamias merriami merriami,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,90653,180195,Active,Tamias minimus,least chipmunk,"Eutamias minimus pictus, Eutamias minimus scrutator",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,90660,180200,Active,Tamias quadrimaculatus,Long-eared Chipmunk,Eutamias quadrimaculatus,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,90663,180203,Active,Tamias senex,Allen's chipmunk,"Eutamias townsendii senex, Tamias senex senex",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,90666,180206,Active,Tamias speciosus,Lodgepole Chipmunk,"Eutamias speciosis frater, Tamias speciosus frater",Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,90669,180209,Active,Tamias umbrinus,Inyo chipmunk,Tamias umbrinus inyoensis,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,89698,180167,Active,Tamiasciurus douglasii,chickaree,Tamiasciurus douglasii albolimbatus,Present
+YOSE,Yosemite National Park,Mammal,1,Rodentia,Sciuridae,920618,930315,Active,Urocitellus beldingi,Belding's ground squirrel,"Spermophilus beldingi beldingi, Spermophilus beldingi",Present
+YOSE,Yosemite National Park,Mammal,1,Soricomorpha,Soricidae,88662,179948,Active,Sorex lyelli,Mount Lyell shrew,,Present
+YOSE,Yosemite National Park,Mammal,1,Soricomorpha,Soricidae,88665,179950,Active,Sorex monticolus,montane shrew,,Present
+YOSE,Yosemite National Park,Mammal,1,Soricomorpha,Soricidae,88127,179933,Active,Sorex palustris,water shrew,Sorex palustris navigator,Present
+YOSE,Yosemite National Park,Mammal,1,Soricomorpha,Soricidae,88670,179955,Active,Sorex tenellus,Inyo shrew,,Present
+YOSE,Yosemite National Park,Mammal,1,Soricomorpha,Soricidae,88671,179956,Active,Sorex trowbridgii,Trowbridge's Shrew,Sorex trowbridgii mariposa,Present
+YOSE,Yosemite National Park,Mammal,1,Soricomorpha,Talpidae,88699,179981,Active,Scapanus latimanus,Broad-footed Mole,Scapanus latimanus sericatus,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern Goshawk,,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,Accipiter striatus velox,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,Aquila chrysaetos canadensis,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,rough-legged hawk,,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Accipitridae,79572,175359,Active,Buteo lineatus,Red-shouldered Hawk,,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Accipitridae,79487,175282,Active,Elanus leucurus,white-tailed kite,,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+YOSE,Yosemite National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,osprey,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,77836,175122,Active,Aix sponsa,Wood Duck,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern Shoveler,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,green-winged teal,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,77798,175089,Active,Anas cyanoptera,Cinnamon Teal,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,77781,175073,Active,Anas strepera,Gadwall,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,78519,175134,Active,Aythya affinis,Lesser Scaup,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,78512,175128,Active,Aythya collaris,ring-necked duck,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,78513,175129,Active,Aythya valisineria,Canvasback,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,Branta canadensis hutchinsi,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,78531,175145,Active,Bucephala albeola,Bufflehead,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,78527,175141,Active,Bucephala clangula,Common Goldeneye,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,78530,175144,Active,Bucephala islandica,Barrow's Goldeneye,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,77742,175038,Active,Chen caerulescens,snow goose,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,76612,174987,Active,Cygnus columbianus,Tundra Swan,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,78535,175149,Active,Histrionicus histrionicus,Harlequin Duck,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,78573,175183,Active,Lophodytes cucullatus,Hooded Merganser,,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,78575,175185,Active,Mergus merganser,Common Merganser,Mergus merganser americanus,Present
+YOSE,Yosemite National Park,Bird,2,Anseriformes,Anatidae,78564,175175,Active,Oxyura jamaicensis,Ruddy Duck,,Present
+YOSE,Yosemite National Park,Bird,2,Apodiformes,,926922,,Inactive,Selasphorus calliope,calliope hummingbird,Stellula calliope,Present
+YOSE,Yosemite National Park,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,Aeronautes saxatalis saxatalis,Present
+YOSE,Yosemite National Park,Bird,2,Apodiformes,Apodidae,83047,178002,Active,Chaetura vauxi,Vaux's Swift,,Present
+YOSE,Yosemite National Park,Bird,2,Apodiformes,Apodidae,83039,177997,Active,Cypseloides niger,black swift,Nephoecetes niger borealis,Present
+YOSE,Yosemite National Park,Bird,2,Apodiformes,Trochilidae,83885,178033,Active,Archilochus alexandri,Black-chinned Hummingbird,,Present
+YOSE,Yosemite National Park,Bird,2,Apodiformes,Trochilidae,83888,178036,Active,Calypte anna,Anna's Hummingbird,,Present
+YOSE,Yosemite National Park,Bird,2,Apodiformes,Trochilidae,83890,178038,Active,Selasphorus platycercus,Broad-tailed Hummingbird,,Present
+YOSE,Yosemite National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+YOSE,Yosemite National Park,Bird,2,Apodiformes,Trochilidae,83894,178041,Active,Selasphorus sasin,Allen's Hummingbird,,Present
+YOSE,Yosemite National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+YOSE,Yosemite National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,Phalaenoptilus nuttallii californicus,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Laridae,81187,176935,Active,Hydroprogne caspia,Caspian tern,Sterna caspia,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Laridae,81069,176829,Active,Larus californicus,California Gull,,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Laridae,81071,176830,Active,Larus delawarensis,Ring-billed Gull,,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Recurvirostridae,80285,176726,Active,Himantopus mexicanus,black-necked stilt,,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Recurvirostridae,80280,176721,Active,Recurvirostra americana,American Avocet,,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Scolopacidae,631809,726049,Active,Actitis macularius,spotted sandpiper,Actitis macularia,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Scolopacidae,79270,176656,Active,Calidris minutilla,Least Sandpiper,,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Scolopacidae,631807,726048,Active,Gallinago delicata,Wilson's snipe,Capella delicata,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Scolopacidae,80294,176734,Active,Phalaropus fulicarius,red phalarope,,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Scolopacidae,80295,176735,Active,Phalaropus lobatus,red-necked phalarope,,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Scolopacidae,80296,176736,Active,Phalaropus tricolor,Wilson's Phalarope,,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Scolopacidae,79229,176619,Active,Tringa melanoleuca,Greater Yellowlegs,,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Scolopacidae,848304,824147,Active,Tringa semipalmata,willet,Catoptrophorus semipalmatus,Present
+YOSE,Yosemite National Park,Bird,2,Charadriiformes,Scolopacidae,79225,176615,Active,Tringa solitaria,Solitary Sandpiper,,Present
+YOSE,Yosemite National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,rock pigeon,,Present
+YOSE,Yosemite National Park,Bird,2,Columbiformes,Columbidae,525775,676899,Active,Patagioenas fasciata,band-tailed pigeon,"Columba fasciata monilis, Columba fasciata, Columba fasciata fasciata",Present
+YOSE,Yosemite National Park,Bird,2,Columbiformes,Columbidae,82752,177139,Active,Streptopelia decaocto,Eurasian collared dove,,Present
+YOSE,Yosemite National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,western mourning dove,Zenaidura macroura marginella,Present
+YOSE,Yosemite National Park,Bird,2,Coraciiformes,Alcedinidae,83966,178106,Active,Megaceryle alcyon,"belted kingfisher, Belted Kingfisher","Ceryle alcyon caurina, Ceryle alcyon",Present
+YOSE,Yosemite National Park,Bird,2,Cuculiformes,Cuculidae,89107,177836,Active,Geococcyx californianus,Greater Roadrunner,,Present
+YOSE,Yosemite National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+YOSE,Yosemite National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+YOSE,Yosemite National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Present
+YOSE,Yosemite National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+YOSE,Yosemite National Park,Bird,2,Galliformes,Odontophoridae,84295,175876,Active,Callipepla californica,California quail,Lophortyx vallicola californicus,Present
+YOSE,Yosemite National Park,Bird,2,Galliformes,Odontophoridae,84314,175893,Active,Oreortyx pictus,Mountain Quail,Oreortyx pictus pictus,Present
+YOSE,Yosemite National Park,Bird,2,Galliformes,Phasianidae,84272,175855,Active,Centrocercus urophasianus,greater sage-grouse,,Present
+YOSE,Yosemite National Park,Bird,2,Galliformes,Phasianidae,673742,-746168,Active,Dendragapus fuliginosus,sooty grouse,Dendragapus obscurus,Present
+YOSE,Yosemite National Park,Bird,2,Galliformes,Phasianidae,529883,677541,Active,Lagopus leucura,White-tailed Ptarmigan,Lagopus leucurus,Present
+YOSE,Yosemite National Park,Bird,2,Galliformes,Phasianidae,86451,176136,Active,Meleagris gallopavo,Wild Turkey,,Present
+YOSE,Yosemite National Park,Bird,2,Gaviiformes,Gaviidae,81671,174469,Active,Gavia immer,common loon,,Present
+YOSE,Yosemite National Park,Bird,2,Gaviiformes,Gaviidae,81678,174475,Active,Gavia pacifica,Pacific loon,,Present
+YOSE,Yosemite National Park,Bird,2,Gruiformes,Gruidae,86496,176177,Active,Grus canadensis,sandhill crane,,Present
+YOSE,Yosemite National Park,Bird,2,Gruiformes,Rallidae,87253,176259,Active,Coturnicops noveboracensis,Yellow Rail,,Present
+YOSE,Yosemite National Park,Bird,2,Gruiformes,Rallidae,87290,176292,Active,Fulica americana,American Coot,,Present
+YOSE,Yosemite National Park,Bird,2,Gruiformes,Rallidae,87235,176242,Active,Porzana carolina,Sora,,Present
+YOSE,Yosemite National Park,Bird,2,Gruiformes,Rallidae,87212,176221,Active,Rallus limicola,Virginia Rail,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,,926917,,Inactive,Haemorhous mexicanus,house finch,Carpodacus mexicanus,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,,926918,,Inactive,Haemorhous purpureus,purple finch,Carpodacus purpureus,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Aegithalidae,90923,178764,Active,Psaltriparus minimus,bushtit,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Bombycillidae,88292,178529,Active,Bombycilla garrulus,Bohemian Waxwing,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Calcariidae,85686,179530,Active,Calcarius ornatus,Chestnut-collared Longspur,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Cardinalidae,628204,726198,Active,Passerina caerulea,blue grosbeak,Guiraca caerulea,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,black-headed grosbeak,Hedymeles melanocephalus,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Eurasian Treecreeper,Certhia familiaris,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Cinclidae,88300,178536,Active,Cinclus mexicanus,American dipper,Cinclus mexicanus unicolor,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Corvidae,266936,554128,Active,Aphelocoma californica,western scrub-jay,Aphelocoma coerulescens,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,common raven,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller's Jay,"Cyanocitta stelleri frontalis, Cyanocitta frontalis",Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Corvidae,87124,179748,Active,Gymnorhinus cyanocephalus,Pinyon Jay,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Corvidae,626506,726117,Active,Pica hudsonia,black-billed magpie,Pica pica,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Corvidae,87097,179723,Active,Pica nuttalli,Yellow-billed Magpie,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,84716,179377,Active,Aimophila ruficeps,Rufous-crowned Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,83867,179333,Active,Ammodramus savannarum,Grasshopper Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,84736,179395,Active,Amphispiza bilineata,Black-throated Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,926914,,Inactive,Artemisiospiza belli,sage sparrow,Amphispiza belli,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,637412,730152,Active,Junco hyemalis caniceps,gray-headed junco,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,84756,179412,Active,Junco hyemalis hyemalis,slate-colored junco,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,84761,179417,Active,Junco hyemalis oreganus,Oregon junco,"Junco hyemalis, Junco oreganus",Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,Melospiza lincolnii alticola,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,773823,,Inactive,Melozone crissalis,California towhee,Pipilo crissalis,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,85612,179464,Active,Passerella iliaca,"Fox Sparrow, Red Fox Sparrow",Passerella iliaca iliaca,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,83842,179310,Active,Pipilo chlorurus,Green-tailed Towhee,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,265870,554380,Active,Pipilo maculatus,spotted towhee,"Pipilo erythrophthalmus falcinellus, Pipilo erythrophthalmus",Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,84795,179448,Active,Spizella atrogularis,Black-chinned Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,84785,179439,Active,Spizella pallida,Clay-colored Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,85610,179462,Active,Zonotrichia albicollis,White-throated Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,85609,179461,Active,Zonotrichia atricapilla,Golden-crowned Sparrow,Zonotrichia coronata,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,85604,179457,Active,Zonotrichia leucophrys gambelii,Gambel's white-crowned sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,85605,179458,Active,Zonotrichia leucophrys oriantha,mountain white-crowned sparrow,"Zonotrichia leucophrys, Zonotrichia leucophrys leucophrys",Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Emberizidae,84802,179454,Active,Zonotrichia querula,Harris's sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,Hesperiphona vespertina,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Fringillidae,926916,,Inactive,Haemorhous cassinii,Cassin's finch,Carpodacus cassinii,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Fringillidae,94329,179215,Active,Leucosticte tephrocotis,gray-crowned rosy finch,Leucosticte tephrocotis dawsoni,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Fringillidae,95311,179259,Active,Loxia curvirostra,Red Crossbill,Loxia curvirostra curvirostra,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Fringillidae,94318,179205,Active,Pinicola enucleator,Pine Grosbeak,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Fringillidae,95309,179257,Active,Spinus lawrencei,Lawrence's goldfinch,Carduelis lawrencei,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Fringillidae,95297,179246,Active,Spinus pinus,pine siskin,Carduelis pinus,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Fringillidae,95306,179254,Active,Spinus psaltria,lesser goldfinch,Carduelis psaltria,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Fringillidae,95300,179249,Active,Spinus tristis,American goldfinch,Carduelis tristis,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,cliff swallow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Hirundinidae,87396,178436,Active,Riparia riparia,bank swallow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,Iridoprocne bicolor,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,"Agelaius phoeniceus nevadensis, Agelaius aciculotus",Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Icteridae,93599,179032,Active,Dolichonyx oryzivorus,Bobolink,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's oriole,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Icteridae,93654,179082,Active,Icterus parisorum,Scott's oriole,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Icteridae,94211,179109,Active,Quiscalus mexicanus,Great-tailed Grackle,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,Sturnella neglecta confluenta,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Icteridae,93611,179043,Active,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Laniidae,88273,178511,Active,Lanius excubitor,northern shrike,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Mimidae,89977,178625,Active,Dumetella carolinensis,gray catbird,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Mimidae,90009,178654,Active,Oreoscoptes montanus,Sage Thrasher,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Mimidae,89996,178642,Active,Toxostoma redivivum,California Thrasher,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American pipit,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Paridae,266962,554140,Active,Baeolophus inornatus,oak titmouse,Parus inornatus,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Paridae,265880,554385,Active,Poecile gambeli,mountain chickadee,"Parus gambeli abbreviatus, Penthestes gambeli",Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Paridae,265884,554387,Active,Poecile rufescens,chestnut-backed chickadee,Parus rufescens,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,943244,950080,Active,Cardellina pusilla,Wilson's warbler,Wilsonia pusilla,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,942894,950023,Active,Geothlypis tolmiei,MacGillivray's warbler,Oporornis tolmiei,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,91012,178844,Active,Mniotilta varia,Black-and-white Warbler,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,93546,178986,Active,Myioborus pictus,painted redstart,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,942897,950099,Active,Oreothlypis celata,orange-crowned warbler,Vermivora celata,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,942308,950097,Active,Oreothlypis peregrina,Tennessee warbler,Vermivora peregrina,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,942309,950106,Active,Oreothlypis ruficapilla,Nashville warbler,"Vermivora ruficapilla gutturalis, Vermivora ruficapilla",Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,940540,950108,Active,Oreothlypis virginiae,Virginia's warbler,Vermivora virginiae,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,628220,726205,Active,Seiurus aurocapilla,ovenbird,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,945323,950033,Active,Setophaga americana,northern parula,Parula americana,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,944724,950032,Active,Setophaga cerulea,Cerulean Warbler,Dendroica cerulea,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,944373,950029,Active,Setophaga citrina,hooded warbler,Wilsonia citrina,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,892355,,Inactive,Setophaga coronata auduboni,Audubon's warbler,"Dendroica coronata, Dendroica coronata auduboni",Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,892356,,Inactive,Setophaga coronata coronata,myrtle warbler (yellow-rumped),,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,948608,950035,Active,Setophaga magnolia,magnolia warbler,Dendroica magnolia,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,942895,950057,Active,Setophaga nigrescens,black-throated gray warbler,Dendroica nigrescens,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,950199,950059,Active,Setophaga occidentalis,hermit warbler,Dendroica occidentalis,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,944374,950043,Active,Setophaga palmarum,palm warbler,Dendroica palmarum,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,945403,950039,Active,Setophaga petechia,yellow warbler,"Vermivora petechia, Dendroica petechia",Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,947480,950041,Active,Setophaga striata,blackpoll warbler,Dendroica striata,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Parulidae,943243,950058,Active,Setophaga townsendi,Townsend's warbler,Dendroica townsendi,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,blue-gray gnatcatcher,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Ptilogonatidae,88064,179877,Active,Phainopepla nitens,Phainopepla,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,Regulus calendula cineraceus,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned Kinglet,Regulus satrapa olivaceus,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Sittidae,90949,178788,Active,Sitta pygmaea,Pygmy Nuthatch,Sitta pygmaea pygmaea,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European starling,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Sylviidae,90992,178826,Active,Chamaea fasciata,Wrentit,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Troglodytidae,88383,178610,Active,Catherpes mexicanus,Canyon Wren,Catherpes mexicanus punctulatus,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Troglodytidae,88380,178608,Active,Cistothorus palustris,Marsh Wren,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,Salpinctes obsoletus obsoletus,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Troglodytidae,921891,916804,Active,Troglodytes pacificus,Pacific wren,Troglodytes troglodytes,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,hermit thrush,"Catharus guttatus nanus, Hylocichla guttata",Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,Hylocichla usulata usulata,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Turdidae,87152,179773,Active,Ixoreus naevius,Varied Thrush,Ixoreus naevius meruleides,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,Turdus migratorius propinguus,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,Olive-sided Flycatcher,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,western wood-pewee,Contopus sordidulus veliei,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,85834,178348,Active,Empidonax difficilis,Pacific-slope flycatcher,Empidonax difficilis difficilis,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,264075,554254,Active,Empidonax hammondii,Hammond's Flycatcher,Empidonax hammondi,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,85827,178341,Active,Empidonax traillii,Willow Flycatcher,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,85833,178347,Active,Empidonax wrightii,gray flycatcher,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,Ash-throated Flycatcher,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,85860,178371,Active,Pyrocephalus rubinus,Vermilion Flycatcher,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,85815,178330,Active,Sayornis nigricans,Black Phoebe,Sayornis nigricans semiatra,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Phoebe,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,85757,178279,Active,Tyrannus tyrannus,Eastern kingbird,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Vireonidae,266864,554456,Active,Vireo cassinii,Cassin's vireo,"Vireo solitarius, Vireo solitarius cassinii, Lanivireo solitarius cassini",Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Vireonidae,93558,178997,Active,Vireo huttoni,Hutton's Vireo,,Present
+YOSE,Yosemite National Park,Bird,2,Passeriformes,Vireonidae,93587,179021,Active,Vireo olivaceus,Red-eyed Vireo,,Present
+YOSE,Yosemite National Park,Bird,2,Pelecaniformes,Ardeidae,266951,554135,Active,Ardea alba,great egret,"Casmerodius albus, Ardea albus",Present
+YOSE,Yosemite National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+YOSE,Yosemite National Park,Bird,2,Pelecaniformes,Ardeidae,84508,174856,Active,Botaurus lentiginosus,American Bittern,,Present
+YOSE,Yosemite National Park,Bird,2,Pelecaniformes,Ardeidae,84438,174793,Active,Butorides virescens,green heron,,Present
+YOSE,Yosemite National Park,Bird,2,Pelecaniformes,Ardeidae,84461,174813,Active,Egretta thula,Snowy Egret,,Present
+YOSE,Yosemite National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,black-crowned night heron,,Present
+YOSE,Yosemite National Park,Bird,2,Pelecaniformes,Pelecanidae,83382,174684,Active,Pelecanus erythrorhynchos,American White Pelican,,Present
+YOSE,Yosemite National Park,Bird,2,Pelecaniformes,Pelecanidae,83383,174685,Active,Pelecanus occidentalis,brown pelican,,Present
+YOSE,Yosemite National Park,Bird,2,Pelecaniformes,Threskiornithidae,85521,174926,Active,Plegadis chihi,white-faced ibis,,Present
+YOSE,Yosemite National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,Colaptes cafercollaris,Present
+YOSE,Yosemite National Park,Bird,2,Piciformes,Picidae,84833,178166,Active,Dryocopus pileatus,Pileated Woodpecker,,Present
+YOSE,Yosemite National Park,Bird,2,Piciformes,Picidae,84858,178189,Active,Melanerpes formicivorus,Acorn Woodpecker,,Present
+YOSE,Yosemite National Park,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,Lewis's woodpecker,,Present
+YOSE,Yosemite National Park,Bird,2,Piciformes,Picidae,84933,178256,Active,Picoides albolarvatus,Northern White-headed Woodpecker,"Dryobates albolarvatus albolarvatus, Dendrocopos albolarvatus albolarvatus, Xenopicus albolarvatus albolarvatus, Xenopicus albolarvatus",Present
+YOSE,Yosemite National Park,Bird,2,Piciformes,Picidae,84927,178250,Active,Picoides arcticus,Black-backed Woodpecker,,Present
+YOSE,Yosemite National Park,Bird,2,Piciformes,Picidae,84935,178258,Active,Picoides nuttallii,Nuttall's Woodpecker,Dryobates nuttalli,Present
+YOSE,Yosemite National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy Woodpecker,Dendrocopos pubescens,Present
+YOSE,Yosemite National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,Dendrocopos villosus,Present
+YOSE,Yosemite National Park,Bird,2,Piciformes,Picidae,84884,178211,Active,Sphyrapicus nuchalis,Red-naped Sapsucker,,Present
+YOSE,Yosemite National Park,Bird,2,Piciformes,Picidae,84885,178212,Active,Sphyrapicus ruber,Red-breasted Sapsucker,,Present
+YOSE,Yosemite National Park,Bird,2,Piciformes,Picidae,84880,178208,Active,Sphyrapicus thyroideus,Williamson's Sapsucker,,Present
+YOSE,Yosemite National Park,Bird,2,Podicipediformes,Podicipedidae,265055,554027,Active,Aechmophorus clarkii,Clark's Grebe,,Present
+YOSE,Yosemite National Park,Bird,2,Podicipediformes,Podicipedidae,81710,174503,Active,Aechmophorus occidentalis,Western Grebe,,Present
+YOSE,Yosemite National Park,Bird,2,Podicipediformes,Podicipedidae,81686,174482,Active,Podiceps auritus,Horned Grebe,,Present
+YOSE,Yosemite National Park,Bird,2,Podicipediformes,Podicipedidae,81689,174485,Active,Podiceps nigricollis,eared grebe,Podiceps caspicus californicus,Present
+YOSE,Yosemite National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,Pied-billed Grebe,,Present
+YOSE,Yosemite National Park,Bird,2,Strigiformes,Strigidae,82979,177942,Active,Aegolius acadicus,Northern Saw-whet Owl,Cryptoglaux acadia,Present
+YOSE,Yosemite National Park,Bird,2,Strigiformes,Strigidae,82971,177935,Active,Asio flammeus,Short-eared Owl,,Present
+YOSE,Yosemite National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+YOSE,Yosemite National Park,Bird,2,Strigiformes,Strigidae,82983,177946,Active,Athene cunicularia,Burrowing Owl,,Present
+YOSE,Yosemite National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+YOSE,Yosemite National Park,Bird,2,Strigiformes,Strigidae,82935,177902,Active,Glaucidium gnoma,northern pygmy owl,Glaucidium gnoma californicum,Present
+YOSE,Yosemite National Park,Bird,2,Strigiformes,Strigidae,543207,686659,Active,Megascops kennicottii,western screech-owl,"Otus kennicottii, Otus asio quercinus",Present
+YOSE,Yosemite National Park,Bird,2,Strigiformes,Strigidae,80765,177878,Active,Otus flammeolus,Flammulated Owl,,Present
+YOSE,Yosemite National Park,Bird,2,Strigiformes,Strigidae,82964,177929,Active,Strix nebulosa,great gray owl,Strix nebulosa nebulosa,Present
+YOSE,Yosemite National Park,Bird,2,Strigiformes,Strigidae,82960,177925,Active,Strix occidentalis,spotted owl,,Present
+YOSE,Yosemite National Park,Bird,2,Strigiformes,Tytonidae,80736,177851,Active,Tyto alba,barn owl,,Present
+YOSE,Yosemite National Park,Bird,2,Suliformes,Phalacrocoracidae,83419,174717,Active,Phalacrocorax auritus,Double-crested Cormorant,,Present
