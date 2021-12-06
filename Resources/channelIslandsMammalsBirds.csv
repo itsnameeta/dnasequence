@@ -1,0 +1,397 @@
+﻿Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+CHIS,Channel Islands National Park,Mammal,1,Carnivora,Canidae,93354,180610,Active,Urocyon littoralis,Channel Islands Gray Fox,"Urocyon littoralis littoralis, Urocyon littoralis santacruzae, Urocyon littoralis santarosae",Present
+CHIS,Channel Islands National Park,Mammal,1,Carnivora,Mephitidae,154133,-501824,Inactive,Spilogale gracilis amphiala,Spotted Skunk,,Present
+CHIS,Channel Islands National Park,Mammal,1,Carnivora,Mustelidae,107235,202390,Active,Enhydra lutris nereis,Sea Otter,,Present
+CHIS,Channel Islands National Park,Mammal,1,Carnivora,Otariidae,93382,180636,Active,Arctocephalus townsendi,Guadalupe Fur Seal,,Present
+CHIS,Channel Islands National Park,Mammal,1,Carnivora,Otariidae,93372,180627,Active,Callorhinus ursinus,Northern Fur Seal,,Present
+CHIS,Channel Islands National Park,Mammal,1,Carnivora,Otariidae,93370,180625,Active,Eumetopias jubatus,"Northern Sea Lion, Stellar Sea Lion",,Present
+CHIS,Channel Islands National Park,Mammal,1,Carnivora,Otariidae,93366,180621,Active,Zalophus californianus,California Sea Lion,,Present
+CHIS,Channel Islands National Park,Mammal,1,Carnivora,Phocidae,95017,180672,Active,Mirounga angustirostris,Northern Elephant Seal,,Present
+CHIS,Channel Islands National Park,Mammal,1,Carnivora,Phocidae,93396,180649,Active,Phoca vitulina,Harbor Seal,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Balaenopteridae,92600,180524,Active,Balaenoptera acutorostrata,Minke Whale,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Balaenopteridae,92602,180526,Active,Balaenoptera borealis,Rorqual (Sei Whale),,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Balaenopteridae,92604,180528,Active,Balaenoptera musculus,Blue Whale,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Balaenopteridae,92603,180527,Active,Balaenoptera physalus,Finback Whale,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Balaenopteridae,92607,180530,Active,Megaptera novaeangliae,Humback Whale,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Delphinidae,92504,180438,Active,Delphinus delphis,Common Dolphin,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Delphinidae,92525,180457,Active,Grampus griseus,Risso Dolphin,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Delphinidae,92511,180444,Active,Lagenorhynchus obliquidens,Pacific White-sided Dolphin,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Delphinidae,92522,180454,Active,Lissodelphis borealis,Right Whale Dolphin,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Delphinidae,92538,180469,Active,Orcinus orca,Killer Whale,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Delphinidae,92532,180463,Active,Pseudorca crassidens,False Killer Whale,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Delphinidae,91819,180417,Active,Steno bredanensis,Rough-toothed Dolphin,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Delphinidae,92491,180426,Active,Tursiops truncatus,Pacific Bottlenose Dolphin,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Eschrichtiidae,92597,180521,Active,Eschrichtius robustus,Gray Whale,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Hyperoodontidae,92589,180514,Active,Mesoplodon stejnegeri,Pacific Beaked Whale,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Kogiidae,92563,180491,Active,Kogia breviceps,Pygmy Sperm Whale,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Phocoenidae,92543,180473,Active,Phocoena phocoena,Harbor Porpoise,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Phocoenidae,92551,180480,Active,Phocoenoides dalli,Dall's Porpoise,,Present
+CHIS,Channel Islands National Park,Mammal,1,Cetacea,Physeteridae,92560,180489,Active,Physeter catodon,Sperm Whale,,Present
+CHIS,Channel Islands National Park,Mammal,1,Chiroptera,Molossidae,89602,180080,Active,Eumops perotis,Western Mastiff Bat,,Present
+CHIS,Channel Islands National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,Mexican Free-tailed Bat,,Present
+CHIS,Channel Islands National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,Pallid Bat,,Present
+CHIS,Channel Islands National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,,Present
+CHIS,Channel Islands National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,Silver-haired Bat,,Present
+CHIS,Channel Islands National Park,Mammal,1,Chiroptera,Vespertilionidae,88739,180016,Active,Lasiurus borealis,Red Bat,,Present
+CHIS,Channel Islands National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,Hoary Bat,,Present
+CHIS,Channel Islands National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,California Myotis,,Present
+CHIS,Channel Islands National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,Long-eared Myotis,,Present
+CHIS,Channel Islands National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,,Present
+CHIS,Channel Islands National Park,Mammal,1,Chiroptera,Vespertilionidae,106783,202345,Active,Plecotus townsendii townsendii,Townsend's Big-eared Bat,,Present
+CHIS,Channel Islands National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,Deer Mouse,"Peromyscus maniculatus anacapae, Peromyscus maniculatus santacruzae, Peromyscus maniculatus santarosae, Peromyscus maniculatus elusus",Present
+CHIS,Channel Islands National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,,Present
+CHIS,Channel Islands National Park,Mammal,1,Rodentia,Muridae,91758,180362,Active,Rattus rattus,Black Rat,,Present
+CHIS,Channel Islands National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+CHIS,Channel Islands National Park,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern Goshawk,,Present
+CHIS,Channel Islands National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+CHIS,Channel Islands National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+CHIS,Channel Islands National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+CHIS,Channel Islands National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,Rough-legged Hawk,,Present
+CHIS,Channel Islands National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+CHIS,Channel Islands National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+CHIS,Channel Islands National Park,Bird,2,Accipitriformes,Accipitridae,79487,175282,Active,Elanus leucurus,White-tailed Kite,,Present
+CHIS,Channel Islands National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77836,175122,Active,Aix sponsa,Wood Duck,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern Shoveler,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77798,175089,Active,Anas cyanoptera,Cinnamon Teal,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77802,175092,Active,Anas penelope,Eurasian Wigeon,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77723,175020,Active,Anser albifrons,Greater White-fronted Goose,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,78519,175134,Active,Aythya affinis,Lesser Scaup,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77839,175125,Active,Aythya americana,Redhead,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,78512,175128,Active,Aythya collaris,Ring-necked Duck,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,78513,175129,Active,Aythya valisineria,Canvasback,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77713,175011,Active,Branta bernicla,Brant,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,78531,175145,Active,Bucephala albeola,Bufflehead,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,78527,175141,Active,Bucephala clangula,Common Goldeneye,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77742,175038,Active,Chen caerulescens,Snow Goose,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,77746,175041,Active,Chen rossii,Ross' Goose,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,78535,175149,Active,Histrionicus histrionicus,Harlequin Duck,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,78573,175183,Active,Lophodytes cucullatus,Hooded Merganser,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,78551,175163,Active,Melanitta fusca,White-winged Scoter,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,78560,175171,Active,Melanitta nigra,Black Scoter,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,78559,175170,Active,Melanitta perspicillata,Surf Scoter,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,78577,175187,Active,Mergus serrator,Red-breasted Merganser,,Present
+CHIS,Channel Islands National Park,Bird,2,Anseriformes,Anatidae,78564,175175,Active,Oxyura jamaicensis,Ruddy Duck,,Present
+CHIS,Channel Islands National Park,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,,Present
+CHIS,Channel Islands National Park,Bird,2,Apodiformes,Apodidae,83046,178001,Active,Chaetura pelagica,Chimney Swift,,Present
+CHIS,Channel Islands National Park,Bird,2,Apodiformes,Apodidae,83047,178002,Active,Chaetura vauxi,Vaux's Swift,,Present
+CHIS,Channel Islands National Park,Bird,2,Apodiformes,Apodidae,83039,177997,Active,Cypseloides niger,Black Swift,,Present
+CHIS,Channel Islands National Park,Bird,2,Apodiformes,Trochilidae,83885,178033,Active,Archilochus alexandri,Black-chinned Hummingbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Apodiformes,Trochilidae,83888,178036,Active,Calypte anna,Anna's Hummingbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Apodiformes,Trochilidae,83887,178035,Active,Calypte costae,Costa's Hummingbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Apodiformes,Trochilidae,83894,178041,Active,Selasphorus sasin,Allen's Hummingbird,"Selasphorus sasin sedentarius, Selasphorus sasin sasin",Present
+CHIS,Channel Islands National Park,Bird,2,Apodiformes,Trochilidae,83901,178048,Active,Stellula calliope,Calliope Hummingbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83029,177988,Active,Chordeiles acutipennis,Lesser Nighthawk,,Present
+CHIS,Channel Islands National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+CHIS,Channel Islands National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Alcidae,81924,176996,Active,Brachyramphus marmoratus,Marbled Murrelet,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Alcidae,81919,176991,Active,Cepphus columba,Pigeon Guillemot,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Alcidae,81956,177023,Active,Cerorhinca monocerata,Rhinoceros Auklet,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Alcidae,81966,177032,Active,Fratercula cirrhata,Tufted Puffin,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Alcidae,81962,177029,Active,Fratercula corniculata,Horned Puffin,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Alcidae,81945,177013,Active,Ptychoramphus aleuticus,Cassin's Auklet,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Alcidae,81939,177008,Active,Synthliboramphus antiquus,Ancient Murrelet,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Alcidae,81942,177010,Active,Synthliboramphus craveri,Craveri's Murrelet,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Alcidae,81943,177011,Active,Synthliboramphus hypoleucus,Xantus' Murrelet,Brachyramphus hypoleuca scrippsi,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Alcidae,81900,176974,Active,Uria aalge,Common Murre,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Charadriidae,77635,176510,Active,Charadrius alexandrinus,Snowy Plover,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Charadriidae,77648,176522,Active,Charadrius montanus,Mountain Plover,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Charadriidae,77630,176506,Active,Charadrius semipalmatus,Semipalmated Plover,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Charadriidae,77694,176564,Active,Pluvialis dominica,Lesser Golden-Plover,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Charadriidae,77697,176567,Active,Pluvialis squatarola,Black-bellied Plover,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Haematopodidae,77595,176475,Active,Haematopus bachmani,Black Oystercatcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Haematopodidae,77592,176472,Active,Haematopus palliatus,American Oystercatcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81064,176824,Active,Larus argentatus,Herring Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81078,176837,Active,Larus atricilla,Laughing Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81069,176829,Active,Larus californicus,California Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81073,176832,Active,Larus canus,Mew Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81071,176830,Active,Larus delawarensis,Ring-billed Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,80383,176814,Active,Larus glaucescens,Glaucous-winged Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81083,176841,Active,Larus heermanni,Heermann's Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,80376,176808,Active,Larus hyperboreus,Glaucous Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81056,176817,Active,Larus occidentalis,Western Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81080,176839,Active,Larus philadelphia,Bonaparte's Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81079,176838,Active,Larus pipixcan,Franklin's Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81068,176828,Active,Larus thayeri,Thayer's Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81120,176875,Active,Rissa tridactyla,Black-legged Kittiwake,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81175,176924,Active,Sterna caspia,Caspian Tern,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81176,176925,Active,Sterna elegans,Elegant Tern,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81133,176887,Active,Sterna forsteri,Forster's Tern,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81173,176922,Active,Sterna maxima,Royal Tern,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81137,176890,Active,Sterna paradisaea,Arctic Tern,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Laridae,81110,176866,Active,Xema sabini,Sabine's Gull,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Recurvirostridae,80285,176726,Active,Himantopus mexicanus,Black-necked Stilt,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Recurvirostridae,80280,176721,Active,Recurvirostra americana,American Avocet,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79222,176612,Active,Actitis macularia,Spotted Sandpiper,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79289,176673,Active,Aphriza virgata,Surfbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,77702,176571,Active,Arenaria interpres,Ruddy Turnstone,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,77705,176574,Active,Arenaria melanocephala,Black Turnstone,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79220,176610,Active,Bartramia longicauda,Upland Sandpiper,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79284,176669,Active,Calidris alba,Sanderling,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79276,176661,Active,Calidris alpina,Dunlin,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79269,176655,Active,Calidris bairdii,Baird's Sandpiper,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79255,176642,Active,Calidris canutus,Red Knot,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79283,176668,Active,Calidris mauri,Western Sandpiper,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79267,176653,Active,Calidris melanotos,Pectoral Sandpiper,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79270,176656,Active,Calidris minutilla,Least Sandpiper,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79250,176638,Active,Catoptrophorus semipalmatus,Willet,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,80257,176700,Active,Gallinago gallinago,Common Snipe,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79247,176635,Active,Heteroscelus incanus,Wandering Tattler,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79291,176675,Active,Limnodromus griseus,Short-billed Dowitcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79295,176679,Active,Limnodromus scolopaceus,Long-billed Dowitcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79303,176686,Active,Limosa fedoa,Marbled Godwit,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79200,176593,Active,Numenius americanus,Long-billed Curlew,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79206,176599,Active,Numenius phaeopus,Whimbrel,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,265861,554376,Active,Phalaropus fulicaria,Red Phalarope,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,80295,176735,Active,Phalaropus lobatus,Red-necked Phalarope,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,80296,176736,Active,Phalaropus tricolor,Wilson's Phalarope,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79231,176620,Active,Tringa flavipes,Lesser Yellowlegs,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79229,176619,Active,Tringa melanoleuca,Greater Yellowlegs,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79225,176615,Active,Tringa solitaria,Solitary Sandpiper,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Scolopacidae,79301,176684,Active,Tryngites subruficollis,Buff-breasted Sandpiper,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Stercorariidae,80360,176794,Active,Stercorarius longicaudus,Long-tailed Jaeger,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Stercorariidae,490331,660062,Active,Stercorarius maccormicki,South Polar Skua,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Stercorariidae,80359,176793,Active,Stercorarius parasiticus,Parasitic Jaeger,,Present
+CHIS,Channel Islands National Park,Bird,2,Charadriiformes,Stercorariidae,80358,176792,Active,Stercorarius pomarinus,Pomarine Jaeger,,Present
+CHIS,Channel Islands National Park,Bird,2,Columbiformes,Columbidae,82670,177065,Active,Columba fasciata,Band-tailed Pigeon,,Present
+CHIS,Channel Islands National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,Rock Dove,,Present
+CHIS,Channel Islands National Park,Bird,2,Columbiformes,Columbidae,82747,177134,Active,Streptopelia chinensis,Spotted Dove,,Present
+CHIS,Channel Islands National Park,Bird,2,Columbiformes,Columbidae,82749,177136,Active,Streptopelia risoria,Ringed Turtle-Dove,,Present
+CHIS,Channel Islands National Park,Bird,2,Columbiformes,Columbidae,82733,177121,Active,Zenaida asiatica,White-winged Dove,,Present
+CHIS,Channel Islands National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+CHIS,Channel Islands National Park,Bird,2,Coraciiformes,Alcedinidae,83980,178119,Active,Ceryle alcyon,Belted Kingfisher,,Present
+CHIS,Channel Islands National Park,Bird,2,Cuculiformes,Cuculidae,89102,177831,Active,Coccyzus americanus,Yellow-billed Cuckoo,,Present
+CHIS,Channel Islands National Park,Bird,2,Cuculiformes,Cuculidae,89105,177834,Active,Coccyzus erythropthalmus,Black-billed Cuckoo,,Present
+CHIS,Channel Islands National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+CHIS,Channel Islands National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+CHIS,Channel Islands National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Present
+CHIS,Channel Islands National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+CHIS,Channel Islands National Park,Bird,2,Galliformes,Odontophoridae,84295,175876,Active,Callipepla californica,California Quail,,Present
+CHIS,Channel Islands National Park,Bird,2,Galliformes,Phasianidae,86451,176136,Active,Meleagris gallopavo,Wild Turkey,,Present
+CHIS,Channel Islands National Park,Bird,2,Galliformes,Phasianidae,86426,176113,Active,Pavo cristatus,Common Peafowl,,Present
+CHIS,Channel Islands National Park,Bird,2,Galliformes,Phasianidae,84328,175905,Active,Phasianus colchicus,Ring-necked Pheasent,,Present
+CHIS,Channel Islands National Park,Bird,2,Gaviiformes,Gaviidae,81671,174469,Active,Gavia immer,Common Loon,,Present
+CHIS,Channel Islands National Park,Bird,2,Gaviiformes,Gaviidae,81678,174475,Active,Gavia pacifica,Pacific Loon,,Present
+CHIS,Channel Islands National Park,Bird,2,Gaviiformes,Gaviidae,81677,174474,Active,Gavia stellata,Red-throated Loon,,Present
+CHIS,Channel Islands National Park,Bird,2,Gruiformes,Rallidae,87290,176292,Active,Fulica americana,American Coot,,Present
+CHIS,Channel Islands National Park,Bird,2,Gruiformes,Rallidae,87235,176242,Active,Porzana carolina,Sora,,Present
+CHIS,Channel Islands National Park,Bird,2,Gruiformes,Rallidae,87212,176221,Active,Rallus limicola,Virginia Rail,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Aegithalidae,90923,178764,Active,Psaltriparus minimus,Bushtit,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,Eremophila alpestris insularis,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Calcariidae,85681,179526,Active,Calcarius lapponicus,Lapland Longspur,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Calcariidae,85680,179525,Active,Calcarius mccownii,McCown's Longspur,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Calcariidae,85686,179530,Active,Calcarius ornatus,Chestnut-collared Longspur,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Cardinalidae,94237,179132,Active,Cardinalis sinuatus,Pyrrhuloxia,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Cardinalidae,94251,179145,Active,Guiraca caerulea,Blue Grosbeak,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Cardinalidae,88071,179883,Active,Piranga olivacea,Scarlet Tanager,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Cardinalidae,88076,179888,Active,Piranga rubra,Summer Tanager,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Cardinalidae,94273,179165,Active,Spiza americana,Dickcissel,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Cinclidae,88300,178536,Active,Cinclus mexicanus,American Dipper,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Corvidae,266938,554129,Active,Aphelocoma insularis,Island Scrub Jay,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Corvidae,87097,179723,Active,Pica nuttalli,Yellow-billed Magpie,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,84716,179377,Active,Aimophila ruficeps,Rufous-crowned Sparrow,"Aimophila ruficeps ruficeps, Aimophila ruficeps obscura",Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,83867,179333,Active,Ammodramus savannarum,Grasshopper Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,84745,179402,Active,Amphispiza belli,Sage Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,84736,179395,Active,Amphispiza bilineata,Black-throated Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,83844,179312,Active,Calamospiza melanocorys,Lark Bunting,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,84754,179410,Active,Junco hyemalis,Dark-eyed Junco,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,85638,179488,Active,Melospiza georgiana,Swamp Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,85643,179492,Active,Melospiza melodia,Song Sparrow,"Melospiza melodia graminea, Melospiza melodia clementae, Melospiza melodia micronyx",Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,85612,179464,Active,Passerella iliaca,Fox Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,83842,179310,Active,Pipilo chlorurus,Green-tailed Towhee,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,265870,554380,Active,Pipilo maculatus,Spotted Towhee,"Pipilo maculatus clementae, Pipilo erythrophthalmus clementae, Pipilo maculatus megalonyx, Pipilo erythrophthalmus megalonyx",Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,84778,179432,Active,Spizella arborea,American Tree Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,84795,179448,Active,Spizella atrogularis,Black-chinned Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,84785,179439,Active,Spizella pallida,Clay-colored Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,85610,179462,Active,Zonotrichia albicollis,White-throated Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,85609,179461,Active,Zonotrichia atricapilla,Golden-crowned Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Emberizidae,84802,179454,Active,Zonotrichia querula,Harris' Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Fringillidae,95282,179232,Active,Carduelis lawrencei,Lawrence's Goldfinch,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine Siskin,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Fringillidae,95284,179234,Active,Carduelis psaltria,Lesser Goldfinch,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Fringillidae,95286,179236,Active,Carduelis tristis,American Goldfinch,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Fringillidae,94302,179191,Active,Carpodacus mexicanus,House Finch,"Carpodacus mexicanus clementis, Carpodacus mexicanus frontalis",Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Fringillidae,94296,179186,Active,Carpodacus purpureus,Purple Finch,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Fringillidae,95311,179259,Active,Loxia curvirostra,Red Crossbill,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Hirundinidae,87427,178464,Active,Progne subis,Purple Martin,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Hirundinidae,87396,178436,Active,Riparia riparia,Bank Swallow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Icteridae,93630,179060,Active,Agelaius tricolor,Tricolored Blackbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Icteridae,93599,179032,Active,Dolichonyx oryzivorus,Bobolink,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Icteridae,93664,179091,Active,Euphagus carolinus,Rusty Blackbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's Oriole,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Icteridae,93641,179070,Active,Icterus cucullatus,Hooded Oriole,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Icteridae,93655,179083,Active,Icterus galbula,Baltimore Oriole,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Icteridae,93654,179082,Active,Icterus parisorum,Scott's Oriole,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Icteridae,93611,179043,Active,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,Lanius ludovicianus anthonyi,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Mimidae,89977,178625,Active,Dumetella carolinensis,Gray Catbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Mimidae,90009,178654,Active,Oreoscoptes montanus,Sage Thrasher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Mimidae,89989,178636,Active,Toxostoma bendirei,Bendire's Thrasher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Motacillidae,87464,178498,Active,Anthus cervinus,Red-throated Pipit,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American Pipit,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92645,178888,Active,Dendroica caerulescens,Black-throated Blue Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92673,178912,Active,Dendroica castanea,Bay-breasted Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92679,178918,Active,Dendroica discolor,Prairie Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92665,178905,Active,Dendroica dominica,Yellow-throated Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92664,178904,Active,Dendroica fusca,Blackburnian Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92669,178909,Active,Dendroica graciae,Grace's Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92643,178886,Active,Dendroica magnolia,Magnolia Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92654,178896,Active,Dendroica nigrescens,Black-throated Gray Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92662,178902,Active,Dendroica occidentalis,Hermit Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92683,178921,Active,Dendroica palmarum,Palm Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92672,178911,Active,Dendroica pensylvanica,Chestnut-sided Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,Yellow Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92674,178913,Active,Dendroica striata,Blackpoll Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92644,178887,Active,Dendroica tigrina,Cape May Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92655,178897,Active,Dendroica townsendi,Townsend's Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92656,178898,Active,Dendroica virens,Black-throated Green Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,91012,178844,Active,Mniotilta varia,Black-and-white Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,93546,178986,Active,Myioborus pictus,Painted Redstart,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92700,178937,Active,Oporornis formosus,Kentucky Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92702,178939,Active,Oporornis philadelphia,Mourning Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92704,178940,Active,Oporornis tolmiei,Macgillivray's Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92623,178868,Active,Parula americana,Northern Parula,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,91014,178846,Active,Protonotaria citrea,Prothonotary Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92689,178927,Active,Seiurus aurocapillus,Ovenbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern Waterthrush,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned Warbler,Vermivora celata sordida,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92621,178866,Active,Vermivora luciae,Lucy's Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,91024,178855,Active,Vermivora peregrina,Tennessee Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,91031,178861,Active,Vermivora ruficapilla,Nashville Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92619,178864,Active,Vermivora virginiae,Virginia's Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92744,178977,Active,Wilsonia canadensis,Canada Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92739,178972,Active,Wilsonia citrina,Hooded Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Parulidae,92740,178973,Active,Wilsonia pusilla,Wilson's Warbler,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,Blue-gray Gnatcatcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Ptilogonatidae,88064,179877,Active,Phainopepla nitens,Phainopepla,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned Kinglet,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Troglodytidae,88383,178610,Active,Catherpes mexicanus,Canyon Wren,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Troglodytidae,88380,178608,Active,Cistothorus palustris,Marsh Wren,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,Thryomanes bewickii nesophilus,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Troglodytidae,88312,178547,Active,Troglodytes troglodytes,Winter Wren,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Turdidae,285922,563804,Active,Zoothera naevia,Varied Thrush,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85853,178365,Active,Contopus borealis,Olive-sided Flycatcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85834,178348,Active,Empidonax difficilis,Pacific-slope Flycatcher,"Empidonax difficilis difficilis, Empidonax difficilis insulicola",Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,264075,554254,Active,Empidonax hammondii,Hammond's Flycatcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85830,178344,Active,Empidonax minimus,Least Flycatcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85827,178341,Active,Empidonax traillii,Willow Flycatcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85833,178347,Active,Empidonax wrightii,Gray Flycatcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,Ash-throated Flycatcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85860,178371,Active,Pyrocephalus rubinus,Vermillion Flycatcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85815,178330,Active,Sayornis nigricans,Black Phoebe,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85813,178329,Active,Sayornis phoebe,Eastern Phoebe,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Phoebe,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85773,178293,Active,Tyrannus forficatus,Scissor-tailed Flycatcher,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85757,178279,Active,Tyrannus tyrannus,Eastern Kingbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Tyrannidae,85767,178288,Active,Tyrannus vociferans,Cassin's Kingbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Vireonidae,93567,179003,Active,Vireo bellii,Bell's Vireo,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Vireonidae,266864,554456,Active,Vireo cassinii,Cassin's Vireo,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Vireonidae,93558,178997,Active,Vireo huttoni,Hutton's Vireo,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Vireonidae,93587,179021,Active,Vireo olivaceus,Red-eyed Vireo,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Vireonidae,93588,179022,Active,Vireo philadelphicus,Philadelphia Vireo,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Vireonidae,266908,554477,Active,Vireo plumbeus,Plumbeus Vireo,,Present
+CHIS,Channel Islands National Park,Bird,2,Passeriformes,Vireonidae,93572,179008,Active,Vireo vicinior,Gray Vireo,,Present
+CHIS,Channel Islands National Park,Bird,2,Pelecaniformes,Ardeidae,266951,554135,Active,Ardea alba,Great Egret,Casmerodius albus,Present
+CHIS,Channel Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+CHIS,Channel Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84450,174803,Active,Bubulcus ibis,Cattle Egret,,Present
+CHIS,Channel Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84438,174793,Active,Butorides virescens,Green Heron,,Present
+CHIS,Channel Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84461,174813,Active,Egretta thula,Snowy Egret,,Present
+CHIS,Channel Islands National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-Heron,,Present
+CHIS,Channel Islands National Park,Bird,2,Pelecaniformes,Pelecanidae,83382,174684,Active,Pelecanus erythrorhynchos,American White Pelican,,Present
+CHIS,Channel Islands National Park,Bird,2,Pelecaniformes,Pelecanidae,83383,174685,Active,Pelecanus occidentalis,Brown Pelican,,Present
+CHIS,Channel Islands National Park,Bird,2,Phaethontiformes,Phaethontidae,83370,174673,Active,Phaethon aethereus,Red-billed Tropicbird,,Present
+CHIS,Channel Islands National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,,Present
+CHIS,Channel Islands National Park,Bird,2,Piciformes,Picidae,84858,178189,Active,Melanerpes formicivorus,Acorn Woodpecker,,Present
+CHIS,Channel Islands National Park,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,Lewis' Woodpecker,,Present
+CHIS,Channel Islands National Park,Bird,2,Piciformes,Picidae,84935,178258,Active,Picoides nuttallii,Nuttall's Woodpecker,,Present
+CHIS,Channel Islands National Park,Bird,2,Piciformes,Picidae,84884,178211,Active,Sphyrapicus nuchalis,Red-naped Sapsucker,,Present
+CHIS,Channel Islands National Park,Bird,2,Piciformes,Picidae,84885,178212,Active,Sphyrapicus ruber,Red-breasted Sapsucker,,Present
+CHIS,Channel Islands National Park,Bird,2,Piciformes,Picidae,84874,178202,Active,Sphyrapicus varius,Yellow-bellied Sapsucker,,Present
+CHIS,Channel Islands National Park,Bird,2,Podicipediformes,Podicipedidae,265055,554027,Active,Aechmophorus clarkii,Clark's Grebe,,Present
+CHIS,Channel Islands National Park,Bird,2,Podicipediformes,Podicipedidae,81710,174503,Active,Aechmophorus occidentalis,Western Grebe,,Present
+CHIS,Channel Islands National Park,Bird,2,Podicipediformes,Podicipedidae,81686,174482,Active,Podiceps auritus,Horned Grebe,,Present
+CHIS,Channel Islands National Park,Bird,2,Podicipediformes,Podicipedidae,81689,174485,Active,Podiceps nigricollis,Eared Grebe,,Present
+CHIS,Channel Islands National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,Pied-billed Grebe,,Present
+CHIS,Channel Islands National Park,Bird,2,Procellariiformes,Diomedeidae,81723,174515,Active,Diomedea albatrus,Short-tailed Albatross,,Present
+CHIS,Channel Islands National Park,Bird,2,Procellariiformes,Diomedeidae,81725,174517,Active,Diomedea immutabilis,Laysan Albatross,,Present
+CHIS,Channel Islands National Park,Bird,2,Procellariiformes,Diomedeidae,81724,174516,Active,Diomedea nigripes,Black-footed Albatross,,Present
+CHIS,Channel Islands National Park,Bird,2,Procellariiformes,Hydrobatidae,82524,174634,Active,Oceanodroma homochroa,Ashy Storm-Petrel,,Present
+CHIS,Channel Islands National Park,Bird,2,Procellariiformes,Hydrobatidae,82517,174628,Active,Oceanodroma leucorhoa,Leach's Storm-Petrel,,Present
+CHIS,Channel Islands National Park,Bird,2,Procellariiformes,Hydrobatidae,83334,174640,Active,Oceanodroma melania,Black Storm-Petrel,,Present
+CHIS,Channel Islands National Park,Bird,2,Procellariiformes,Hydrobatidae,83340,174646,Active,Oceanodroma microsoma,Least Storm-Petrel,,Present
+CHIS,Channel Islands National Park,Bird,2,Procellariiformes,Procellariidae,82415,174536,Active,Fulmarus glacialis,Northern Fulmar,,Present
+CHIS,Channel Islands National Park,Bird,2,Procellariiformes,Procellariidae,82428,174548,Active,Puffinus carneipes,Flesh-footed Shearwater,,Present
+CHIS,Channel Islands National Park,Bird,2,Procellariiformes,Procellariidae,82427,174547,Active,Puffinus creatopus,Pink-footed Shearwater,,Present
+CHIS,Channel Islands National Park,Bird,2,Procellariiformes,Procellariidae,82434,174553,Active,Puffinus griseus,Sooty Shearwater,,Present
+CHIS,Channel Islands National Park,Bird,2,Procellariiformes,Procellariidae,265903,554396,Active,Puffinus opisthomelas,Black-vented Shearwater,,Present
+CHIS,Channel Islands National Park,Bird,2,Strigiformes,Strigidae,82979,177942,Active,Aegolius acadicus,Northern Saw-whet Owl,,Present
+CHIS,Channel Islands National Park,Bird,2,Strigiformes,Strigidae,82971,177935,Active,Asio flammeus,Short-eared Owl,,Present
+CHIS,Channel Islands National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+CHIS,Channel Islands National Park,Bird,2,Strigiformes,Strigidae,82983,177946,Active,Athene cunicularia,Burrowing Owl,,Present
+CHIS,Channel Islands National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+CHIS,Channel Islands National Park,Bird,2,Strigiformes,Strigidae,80765,177878,Active,Otus flammeolus,Flammulated Owl,,Present
+CHIS,Channel Islands National Park,Bird,2,Strigiformes,Tytonidae,80736,177851,Active,Tyto alba,Barn Owl,,Present
+CHIS,Channel Islands National Park,Bird,2,Suliformes,Fregatidae,84405,174763,Active,Fregata magnificens,Magnificent Frigatebird,,Present
+CHIS,Channel Islands National Park,Bird,2,Suliformes,Phalacrocoracidae,83419,174717,Active,Phalacrocorax auritus,Double-crested Cormorant,,Present
+CHIS,Channel Islands National Park,Bird,2,Suliformes,Phalacrocoracidae,83428,174725,Active,Phalacrocorax pelagicus,Pelagic Cormorant,,Present
+CHIS,Channel Islands National Park,Bird,2,Suliformes,Phalacrocoracidae,83427,174724,Active,Phalacrocorax penicillatus,Brandt's Cormorant,,Present
+CHIS,Channel Islands National Park,Bird,2,Suliformes,Sulidae,83405,174704,Active,Sula leucogaster,Brown Booby,,Present
+CHIS,Channel Islands National Park,Bird,2,Suliformes,Sulidae,83403,174702,Active,Sula nebouxii,Blue-footed Booby,,Present
+CHIS,Channel Islands National Park,Bird,2,Suliformes,Sulidae,83408,174707,Active,Sula sula,Red-footed Booby,,Present
