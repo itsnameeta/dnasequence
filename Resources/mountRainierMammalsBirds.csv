@@ -1,0 +1,217 @@
+﻿Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+MORA,Mount Rainier National Park,Mammal,1,Artiodactyla,Bovidae,95063,180713,Active,Oreamnos americanus,mountain goat,,Present
+MORA,Mount Rainier National Park,Mammal,1,Artiodactyla,Cervidae,95042,180695,Active,Cervus elaphus,wapiti,"Cervus canadensis, Cervus elaphus roosevelti, Cervus elaphus nelsoni",Present
+MORA,Mount Rainier National Park,Mammal,1,Artiodactyla,Cervidae,891968,898457,Active,Odocoileus hemionus columbianus,Columbian black-tailed deer,Odocoileus hemionus columbianus,Present
+MORA,Mount Rainier National Park,Mammal,1,Artiodactyla,Cervidae,414494,625196,Active,Odocoileus hemionus hemionus,Mule deer,,Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,coyote,,Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Canidae,633315,726932,Active,Vulpes vulpes cascadensis,"Cascade red fox, red fox, Red Fox","Vulpes vulpes cascadensis, Vulpes vulpes",Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,bobcat,,Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,"Cougar, Mountain lion","Felis concolor, Puma concolor oregonensis, Felis concolor oregonensis",Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,,Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,"Eastern Spotted Skunk, spotted skunk",Spilogale putorius,Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Mustelidae,93285,180549,Active,Lontra canadensis,"common otter, North American River Otter, northern river otter, river otter",,Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Mustelidae,93296,180559,Active,Martes americana,Marten,,Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Mustelidae,93292,180555,Active,Mustela erminea,ermine,,Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,long-tailed weasel,,Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Mustelidae,629081,726284,Active,Neovison vison,Mink,Mustela vison,Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Mustelidae,950238,,Inactive,Pekania pennanti,"Fisher, fisher","Martes pennanti, Pekania pennanti",Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,raccoon,,Present
+MORA,Mount Rainier National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,black bear,,Present
+MORA,Mount Rainier National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,,Present
+MORA,Mount Rainier National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,"Black Bat, Silver-black Bat, Silver-haired Bat",,Present
+MORA,Mount Rainier National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,"Hoary Bat, Northern Hoary Bat",,Present
+MORA,Mount Rainier National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,"California Myotis, Californian Myotis",,Present
+MORA,Mount Rainier National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,"Long-eared Myotis, Western Long-eared Bat",,Present
+MORA,Mount Rainier National Park,Mammal,1,Chiroptera,Vespertilionidae,88706,179988,Active,Myotis lucifugus,"Little Brown Bat, Little Brown Myotis",,Present
+MORA,Mount Rainier National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,,Present
+MORA,Mount Rainier National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma Myotis,,Present
+MORA,Mount Rainier National Park,Mammal,1,Chiroptera,Vespertilionidae,88752,180028,Active,Plecotus townsendii,"mule-eared bat, Pacific Townsend's big-eared bat, Townsend's Big-eared Bat, western big-eared bat, western long-eared bat, western lump-nosed bat",Corynorhinus townsendii,Present
+MORA,Mount Rainier National Park,Mammal,1,Didelphimorphia,Didelphidae,88114,179921,Active,Didelphis virginiana,Virginia Opossum,,Present
+MORA,Mount Rainier National Park,Mammal,1,Lagomorpha,Leporidae,89638,180112,Active,Lepus americanus,snowshoe hare,,Present
+MORA,Mount Rainier National Park,Mammal,1,Lagomorpha,Ochotonidae,89634,180109,Active,Ochotona princeps,pika,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Aplodontiidae,115260,203479,Active,Aplodontia rufa rainieri,"Mountain Beaver, Sewellel",Aplodontia rufa,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,beaver,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Cricetidae,90763,180294,Active,Clethrionomys gapperi,red-backed mouse,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Cricetidae,90768,180299,Active,Microtus longicaudus,long-tailed meadow mouse,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Cricetidae,91704,180313,Active,Microtus oregoni,Oregon meadow mouse,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Cricetidae,91706,180315,Active,Microtus richardsoni,water vole,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Cricetidae,91707,180316,Active,Microtus townsendii,Townsend's meadow vole,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,bushy-tailed woodrat,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Cricetidae,260609,552497,Active,Peromyscus keeni,"Keen's Mouse, Northwestern Deermouse",,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,deer mouse,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Cricetidae,91754,180359,Active,Phenacomys intermedius,heather vole,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Dipodidae,91786,180388,Active,Zapus trinotatus,Pacific jumping mouse,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,porcupine,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Geomyidae,90690,180228,Active,Thomomys talpoides,northern pocket gopher,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Sciuridae,89700,180169,Active,Glaucomys sabrinus,flying squirrel,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Sciuridae,89667,180139,Active,Marmota caligata,hoary marmot,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Sciuridae,89688,180158,Active,Spermophilus saturatus,Golden-mantled Ground Squirrel,Spermophilus lateralis,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Sciuridae,90648,180190,Active,Tamias amoenus,Yellow-pine Chipmunk,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Sciuridae,90668,180208,Active,Tamias townsendii,Townsend's Chipmunk,,Present
+MORA,Mount Rainier National Park,Mammal,1,Rodentia,Sciuridae,89698,180167,Active,Tamiasciurus douglasii,Douglas's Squirrel,,Present
+MORA,Mount Rainier National Park,Mammal,1,Soricomorpha,Soricidae,88654,179940,Active,Sorex bendirii,marsh shrew,,Present
+MORA,Mount Rainier National Park,Mammal,1,Soricomorpha,Soricidae,88122,179929,Active,Sorex cinereus,masked shrew,,Probably Present
+MORA,Mount Rainier National Park,Mammal,1,Soricomorpha,Soricidae,88665,179950,Active,Sorex monticolus,dusky shrew,Sorex obscurus,Present
+MORA,Mount Rainier National Park,Mammal,1,Soricomorpha,Soricidae,88127,179933,Active,Sorex palustris,mountain water shrew,,Present
+MORA,Mount Rainier National Park,Mammal,1,Soricomorpha,Soricidae,88671,179956,Active,Sorex trowbridgii,Trowbridge's shrew,,Present
+MORA,Mount Rainier National Park,Mammal,1,Soricomorpha,Soricidae,88126,179932,Active,Sorex vagrans,wandering shrew,,Present
+MORA,Mount Rainier National Park,Mammal,1,Soricomorpha,Talpidae,88692,179975,Active,Neurotrichus gibbsii,shrew mole,,Present
+MORA,Mount Rainier National Park,Mammal,1,Soricomorpha,Talpidae,88700,179982,Active,Scapanus orarius,"Coast Mole, Pacific mole, red-footed mole",,Present
+MORA,Mount Rainier National Park,Mammal,1,Soricomorpha,Talpidae,88701,179983,Active,Scapanus townsendii,Townsend's mole,,Probably Present
+MORA,Mount Rainier National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+MORA,Mount Rainier National Park,Bird,2,Accipitriformes,Accipitridae,79509,175301,Active,Accipiter gentilis atricapillus,Western Goshawk,Accipiter gentilis,Present
+MORA,Mount Rainier National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+MORA,Mount Rainier National Park,Bird,2,Accipitriformes,Accipitridae,80430,175408,Active,Aquila chrysaetos canadensis,Golden Eagle,Aquila chrysaetos,Present
+MORA,Mount Rainier National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+MORA,Mount Rainier National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,Rough-legged Hawk,,Present
+MORA,Mount Rainier National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+MORA,Mount Rainier National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+MORA,Mount Rainier National Park,Bird,2,Accipitriformes,Accipitridae,80446,175422,Active,Haliaeetus leucocephalus alascanus,Bald Eagle,"Haliaeetus leucocephalus leucocephalus, Haliaeetus leucocephalus",Present
+MORA,Mount Rainier National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+MORA,Mount Rainier National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,77836,175122,Active,Aix sponsa,Wood Duck,,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,"American Pintail, Northern Pintail",,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern Shoveler,,Probably Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,77798,175089,Active,Anas cyanoptera,Cinnamon Teal,,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,78531,175145,Active,Bucephala albeola,Bufflehead,,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,78527,175141,Active,Bucephala clangula,Common Goldeneye,,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,78530,175144,Active,Bucephala islandica,Barrow's Goldeneye,,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,77742,175038,Active,Chen caerulescens,"Blue Goose, Snow Goose",,Probably Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,78535,175149,Active,Histrionicus histrionicus,"Harlequin Duck, Western Harlequin Duck",,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,78573,175183,Active,Lophodytes cucullatus,Hooded Merganser,,Present
+MORA,Mount Rainier National Park,Bird,2,Anseriformes,Anatidae,78576,175186,Active,Mergus merganser americanus,American Merganser,Mergus merganser,Present
+MORA,Mount Rainier National Park,Bird,2,Apodiformes,Apodidae,83047,178002,Active,Chaetura vauxi,Vaux's Swift,,Present
+MORA,Mount Rainier National Park,Bird,2,Apodiformes,Apodidae,83039,177997,Active,Cypseloides niger,Black Swift,,Present
+MORA,Mount Rainier National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+MORA,Mount Rainier National Park,Bird,2,Apodiformes,Trochilidae,83901,178048,Active,Stellula calliope,Calliope Hummingbird,,Present
+MORA,Mount Rainier National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+MORA,Mount Rainier National Park,Bird,2,Charadriiformes,Alcidae,81924,176996,Active,Brachyramphus marmoratus,Marbled Murrelet,,Present
+MORA,Mount Rainier National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+MORA,Mount Rainier National Park,Bird,2,Charadriiformes,Laridae,81069,176829,Active,Larus californicus,California Gull,,Present
+MORA,Mount Rainier National Park,Bird,2,Charadriiformes,Laridae,81120,176875,Active,Rissa tridactyla,Black-legged Kittiwake,,Probably Present
+MORA,Mount Rainier National Park,Bird,2,Charadriiformes,Laridae,81175,176924,Active,Sterna caspia,Caspian Tern,,Present
+MORA,Mount Rainier National Park,Bird,2,Charadriiformes,Scolopacidae,631809,726049,Active,Actitis macularius,Spotted Sandpiper,Actitis macularia,Present
+MORA,Mount Rainier National Park,Bird,2,Charadriiformes,Scolopacidae,79269,176655,Active,Calidris bairdii,Baird's Sandpiper,,Present
+MORA,Mount Rainier National Park,Bird,2,Charadriiformes,Scolopacidae,631807,726048,Active,Gallinago delicata,"Wilson's snipe, Common Snipe","Gallinago delicata, Capella gallinago delicata, Gallinago gallinago",Present
+MORA,Mount Rainier National Park,Bird,2,Charadriiformes,Scolopacidae,80295,176735,Active,Phalaropus lobatus,Red-necked Phalarope,,Present
+MORA,Mount Rainier National Park,Bird,2,Charadriiformes,Scolopacidae,80296,176736,Active,Phalaropus tricolor,Wilson's Phalarope,,Probably Present
+MORA,Mount Rainier National Park,Bird,2,Charadriiformes,Scolopacidae,79229,176619,Active,Tringa melanoleuca,Greater Yellowlegs,,Present
+MORA,Mount Rainier National Park,Bird,2,Charadriiformes,Scolopacidae,79227,176617,Active,Tringa solitaria cinnamomea,Western Solitary Sandpiper,Tringa solitaria,Present
+MORA,Mount Rainier National Park,Bird,2,Columbiformes,Columbidae,525349,677237,Active,Patagioenas fasciata monilis,"Band-tailed Pigeon, Band-tailed Pigeon","Columba fasciata fasciata, Columba fasciata, Patagioenas fasciata",Present
+MORA,Mount Rainier National Park,Bird,2,Coraciiformes,Alcedinidae,83966,178106,Active,Megaceryle alcyon,Belted kingfisher,"Ceryle alcyon caurina, Ceryle alcyon, Megaceryle alcyon caurina",Present
+MORA,Mount Rainier National Park,Bird,2,Falconiformes,Falconidae,82534,175614,Active,Falco columbarius columbarius,Merlin,"Falco columbarius, Falco columbarius bendirei",Present
+MORA,Mount Rainier National Park,Bird,2,Falconiformes,Falconidae,82535,175615,Active,Falco columbarius suckleyi,Merlin,,Probably Present
+MORA,Mount Rainier National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+MORA,Mount Rainier National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,Falco peregrinus anatum,Present
+MORA,Mount Rainier National Park,Bird,2,Falconiformes,Falconidae,82544,175623,Active,Falco sparverius sparverius,American kestrel,Falco sparverius,Present
+MORA,Mount Rainier National Park,Bird,2,Galliformes,Odontophoridae,84295,175876,Active,Callipepla californica,California Quail,,Present
+MORA,Mount Rainier National Park,Bird,2,Galliformes,Phasianidae,83140,175799,Active,Bonasa umbellus sabini,Ruffed Grouse,Bonasa umbellus,Present
+MORA,Mount Rainier National Park,Bird,2,Galliformes,Phasianidae,673742,-746168,Active,Dendragapus fuliginosus,Blue Grouse,"Dendragapus obscurus fuliginosus, Dendragapus obscurus",Present
+MORA,Mount Rainier National Park,Bird,2,Galliformes,Phasianidae,525102,677706,Active,Lagopus leucura rainierensis,White-tailed Ptarmigan,"Lagopus leucurus, Lagopus leucurus rainierensis",Present
+MORA,Mount Rainier National Park,Bird,2,Galliformes,Phasianidae,86451,176136,Active,Meleagris gallopavo,Wild Turkey,,Probably Present
+MORA,Mount Rainier National Park,Bird,2,Gaviiformes,Gaviidae,81671,174469,Active,Gavia immer,Common Loon,,Present
+MORA,Mount Rainier National Park,Bird,2,Gruiformes,Rallidae,87212,176221,Active,Rallus limicola,Virginia Rail,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Aegithalidae,90923,178764,Active,Psaltriparus minimus,Bushtit,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Alaudidae,87368,178410,Active,Eremophila alpestris alpina,Horned Lark,"Eremophila alpestris arcticola, Eremophila alpestris",Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Calcariidae,85689,179533,Active,Plectrophenax nivalis nivalis,Snow-bunting,Plectrophenax nivalis,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,Certhia familiaris,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Cinclidae,88300,178536,Active,Cinclus mexicanus,American Dipper,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller's Jay,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Corvidae,86248,179677,Active,Perisoreus canadensis obscurus,Gray Jay,Perisoreus canadensis,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Corvidae,626506,726117,Active,Pica hudsonia,"American magpie, black-billed magpie, Black-billed Magpie, Eurasian Magpie","Pica hudsonia, Pica pica, Pica pica hudsonia",Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Emberizidae,84761,179417,Active,Junco hyemalis oreganus,Oregon Junco,Junco hyemalis,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Emberizidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Emberizidae,85661,179508,Active,Melospiza melodia morphna,Song Sparrow,Melospiza melodia,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Emberizidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,Passerculus sandwichensis alaudinus,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Emberizidae,85612,179464,Active,Passerella iliaca,Fox Sparrow,"Passerella iliaca sinuosa, Passerella iliaca fulva, Passerella iliaca schistacea, Passerella iliaca fuliginosa, Passerella iliaca olivacea",Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Emberizidae,637761,730461,Active,Pipilo maculatus oregonus,"Oregon towhee, Spotted Towhee","Pipilo maculatus oregonus, Pipilo maculatus, Pipilo erythrophthalmus oregonus",Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Emberizidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Emberizidae,84783,179437,Active,Spizella passerina arizonae,Chipping sparrow,Spizella passerina,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Emberizidae,85609,179461,Active,Zonotrichia atricapilla,Golden-crowned Sparrow,,Probably Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Emberizidae,85604,179457,Active,Zonotrichia leucophrys gambelii,White-crowned Sparrow,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Emberizidae,85606,179459,Active,Zonotrichia leucophrys pugetensis,White-crowned Sparrow,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine Siskin,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Fringillidae,95286,179236,Active,Carduelis tristis,American Goldfinch,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Fringillidae,94332,179218,Active,Leucosticte tephrocotis littoralis,"Gray-crowned Rosy-Finch, Grey-crowned Rosy Finch, Asian Rosy Finch, Rosy Finch","Leucosticte tephrocotis, Leucosticte arctoa",Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Fringillidae,95311,179259,Active,Loxia curvirostra,Red Crossbill,Loxia curvirostra sitkensis,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Fringillidae,83794,179268,Active,Loxia leucoptera,White-winged Crossbill,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Fringillidae,94318,179205,Active,Pinicola enucleator,Pine Grosbeak,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Hirundinidae,87387,178428,Active,Tachycineta thalassina lepida,Violet-green Swallow,Tachycineta thalassina,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Icteridae,93623,179054,Active,Agelaius phoeniceus caurinus,Red-winged blackbird,Agelaius phoeniceus,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American Pipit,"Anthus spinoletta pacificus, Anthus spinoletta, Anthus spinoletta rubescens",Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Paridae,627094,726132,Active,Poecile atricapillus occidentalis,Black-capped Chickadee,"Parus atricapillus occidentalis, Parus atricapillus",Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Paridae,627136,726152,Active,Poecile rufescens rufescens,Chestnut-backed Chickadee,"Parus rufescens, Poecile rufescens",Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Parulidae,92652,178894,Active,Dendroica coronata auduboni,Audobon's Warbler,Dendroica coronata,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Parulidae,92654,178896,Active,Dendroica nigrescens,Black-throated Gray Warbler,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Parulidae,92662,178902,Active,Dendroica occidentalis,Hermit Warbler,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,Yellow Warbler,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Parulidae,92655,178897,Active,Dendroica townsendi,Townsend's Warbler,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Parulidae,92706,178942,Active,Oporornis tolmiei tolmiei,MacGillivray's Warbler,Oporornis tolmiei,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Parulidae,91028,178859,Active,Vermivora celata lutescens,Orange-crowned Warbler,Vermivora celata,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Parulidae,92618,178863,Active,Vermivora ruficapilla ridgwayi,Nashville Warbler,Vermivora ruficapilla,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Parulidae,92743,178976,Active,Wilsonia pusilla chryseola,Wilson's Warbler,Wilsonia pusilla,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Probably Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Regulidae,88059,179872,Active,Regulus calendula cineraceus,Ruby-crowned Kinglet,Regulus calendula,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Regulidae,88060,179873,Active,Regulus calendula grinnelli,Sitka Kinglet,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Regulidae,88053,179867,Active,Regulus satrapa olivaceus,Golden-crowned Kinglet,Regulus satrapa,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Sittidae,90952,178790,Active,Sitta pygmaea melanotis,Pygmy nuthatch,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Troglodytidae,88383,178610,Active,Catherpes mexicanus,Canyon Wren,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Troglodytidae,88334,178567,Active,Thryomanes bewickii calophonus,,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Troglodytidae,303667,571695,Active,Troglodytes aedon parkmanii,,Troglodytes aedon parkmani,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Troglodytidae,915882,925950,Active,Troglodytes pacificus pacificus,"Pacific wren, Winter wren","Troglodytes troglodytes, Troglodytes troglodytes pacificus",Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,Catharus guttatus sequoiensis,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Turdidae,87169,179789,Active,Catharus ustulatus ustulatus,Swainson's Thrush,Catharus ustulatus,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Turdidae,87153,179774,Active,Ixoreus naevius naevius,Varied Thrush,Ixoreus naevius,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Turdidae,87191,179808,Active,Sialia mexicana occidentalis,Western bluebird,Sialia mexicana,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Turdidae,87141,179763,Active,Turdus migratorius caurinus,American Robin,Turdus migratorius,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,Olive-sided Flycatcher,Contopus borealis,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Tyrannidae,85835,178349,Active,Empidonax difficilis difficilis,Pacific-slope Flycatcher,Empidonax difficilis,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Tyrannidae,264075,554254,Active,Empidonax hammondii,Hammond's Flycatcher,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Tyrannidae,85828,178342,Active,Empidonax traillii brewsteri,Willow Flycatcher,Empidonax traillii,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Vireonidae,266864,554456,Active,Vireo cassinii,"Blue-headed Vireo, Solitary Vireo","Vireo solitarius cassinii, Vireo solitarius",Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Vireonidae,93591,179025,Active,Vireo gilvus swainsoni,Cassin's Vireo,Vireo gilvus,Present
+MORA,Mount Rainier National Park,Bird,2,Passeriformes,Vireonidae,93558,178997,Active,Vireo huttoni,Hutton's Vireo,,Present
+MORA,Mount Rainier National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,Ardea herodias fannini,Present
+MORA,Mount Rainier National Park,Bird,2,Piciformes,Picidae,84824,178158,Active,Colaptes auratus cafer,Northern Flicker,Colaptes auratus,Present
+MORA,Mount Rainier National Park,Bird,2,Piciformes,Picidae,84833,178166,Active,Dryocopus pileatus,Pileated Woodpecker,,Present
+MORA,Mount Rainier National Park,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,Lewis' Woodpecker,,Present
+MORA,Mount Rainier National Park,Bird,2,Piciformes,Picidae,84927,178250,Active,Picoides arcticus,Black-backed Woodpecker,,Present
+MORA,Mount Rainier National Park,Bird,2,Piciformes,Picidae,542365,686334,Active,Picoides dorsalis fasciatus,American Three-toed Woodpecker,"Picoides tridactylus, Picoides tridactylus fasciatus",Present
+MORA,Mount Rainier National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,"Downy Woodpecker, Gairdner's Woodpecker",,Present
+MORA,Mount Rainier National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,"Hairy Woodpecker, Harris's Woodpecker",,Present
+MORA,Mount Rainier National Park,Bird,2,Piciformes,Picidae,84885,178212,Active,Sphyrapicus ruber,Red-breasted Sapsucker,"Sphyrapicus varius ruber, Sphyrapicus varius",Present
+MORA,Mount Rainier National Park,Bird,2,Podicipediformes,Podicipedidae,81710,174503,Active,Aechmophorus occidentalis,Western Grebe,,Present
+MORA,Mount Rainier National Park,Bird,2,Strigiformes,Strigidae,82979,177942,Active,Aegolius acadicus,Northern Saw-whet Owl,,Present
+MORA,Mount Rainier National Park,Bird,2,Strigiformes,Strigidae,82974,177938,Active,Aegolius funereus,Boreal Owl,,Probably Present
+MORA,Mount Rainier National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+MORA,Mount Rainier National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,"Bubo virginianus saturatus, Bubo virginianus lagophonus",Present
+MORA,Mount Rainier National Park,Bird,2,Strigiformes,Strigidae,82936,177903,Active,Glaucidium gnoma grinnelli,Northern Pygmy Owl,"Glaucidium gnoma pinicola, Glaucidium gnoma",Present
+MORA,Mount Rainier National Park,Bird,2,Strigiformes,Strigidae,545972,686850,Active,Megascops kennicottii kennicottii,"Western Screech-Owl, western screech-owl","Otus kennicottii, Megascops kennicottii, Otus asio kennicotti",Present
+MORA,Mount Rainier National Park,Bird,2,Strigiformes,Strigidae,82961,177926,Active,Strix occidentalis caurina,Spotted Owl,Strix occidentalis,Present
+MORA,Mount Rainier National Park,Bird,2,Strigiformes,Strigidae,82956,177921,Active,Strix varia,Barred Owl,,Present
+MORA,Mount Rainier National Park,Bird,2,Strigiformes,Tytonidae,80736,177851,Active,Tyto alba,Barn Owl,,Probably Present
