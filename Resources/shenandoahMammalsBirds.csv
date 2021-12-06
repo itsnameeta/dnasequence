@@ -1,0 +1,254 @@
+﻿Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+SHEN,Shenandoah National Park,Mammal,1,Artiodactyla,Cervidae,95046,180699,Active,Odocoileus virginianus,White-tailed Deer,Odocoileus virginianus virginianus,Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,,Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,Gray Fox,,Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,Red Fox,,Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,bobcat,"Felis rufus rufus, Lynx rufus rufus, Felis rufus",Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,Mephitis mephitis nigra,Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Mephitidae,93309,180570,Active,Spilogale putorius,Spotted Skunk,,Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Mustelidae,93285,180549,Active,Lontra canadensis,River Otter,Lutra canadensis,Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Mustelidae,93298,180560,Active,Martes pennanti,Fisher,,Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,,Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Mustelidae,93291,180554,Active,Mustela nivalis,Least Weasel,,Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Mustelidae,629081,726284,Active,Neovison vison,"American Mink, mink",Mustela vison,Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,Raccoon,,Present
+SHEN,Shenandoah National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,Black Bear,Ursus americanus americanus,Present
+SHEN,Shenandoah National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,,Present
+SHEN,Shenandoah National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,Silver-haired Bat,,Present
+SHEN,Shenandoah National Park,Mammal,1,Chiroptera,Vespertilionidae,88739,180016,Active,Lasiurus borealis,Red Bat,,Present
+SHEN,Shenandoah National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,Hoary Bat,Lasiurus cinereus cinereus,Present
+SHEN,Shenandoah National Park,Mammal,1,Chiroptera,Vespertilionidae,88718,179999,Active,Myotis leibii,Small-footed Myotis,,Present
+SHEN,Shenandoah National Park,Mammal,1,Chiroptera,Vespertilionidae,88706,179988,Active,Myotis lucifugus,Little Brown Bat,,Present
+SHEN,Shenandoah National Park,Mammal,1,Chiroptera,Vespertilionidae,88722,180000,Active,Myotis septentrionalis,Northern Long-eared Bat,,Present
+SHEN,Shenandoah National Park,Mammal,1,Chiroptera,Vespertilionidae,88723,180001,Active,Myotis sodalis,Indiana Bat,,Present
+SHEN,Shenandoah National Park,Mammal,1,Chiroptera,Vespertilionidae,695948,-756551,Inactive,Perimyotis subflavus,Tri-colored bat,Pipistrellus subflavus subflavus,Present
+SHEN,Shenandoah National Park,Mammal,1,Didelphimorphia,Didelphidae,88114,179921,Active,Didelphis virginiana,Virginia Opossum,,Present
+SHEN,Shenandoah National Park,Mammal,1,Lagomorpha,Leporidae,89651,180124,Active,Sylvilagus floridanus,Eastern Cottontail,,Present
+SHEN,Shenandoah National Park,Mammal,1,Lagomorpha,Leporidae,260646,552514,Active,Sylvilagus obscurus,Appalachian Cottontail,,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,Beaver,,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Cricetidae,90763,180294,Active,Clethrionomys gapperi,Southern Red-backed Vole,"Clethrionomys gapperi gapperi, Myodes gapperi",Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Cricetidae,90766,180297,Active,Microtus pennsylvanicus,Meadow Vole,Microtus pennsylvanicus pennsylvanicus,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Cricetidae,91705,180314,Active,Microtus pinetorum,Woodland Vole,Microtus pinetorum scalopsoides,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Cricetidae,267655,555661,Active,Neotoma magister,Allegheny woodrat,"Neotoma floridana, Neotoma floridana floridana",Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,Muskrat,Ondatra zibethicus zibethicus,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Cricetidae,90745,180278,Active,Peromyscus leucopus,White-footed Mouse,Peromyscus leucopus noveboracensis,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,Deer Mouse,Peromyscus maniculatus nubiterrae,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Cricetidae,91736,180342,Active,Reithrodontomys humulis,Harvest Mouse,,Probably Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Dipodidae,91789,180390,Active,Napaeozapus insignis,Woodland Jumping Mouse,Napaeozapus insignis roanensis,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Dipodidae,91784,180386,Active,Zapus hudsonius,Meadow Jumping Mouse,Zapus hudsonius americanus,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,House Mouse,,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Muridae,91759,180363,Active,Rattus norvegicus,Norway Rat,,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Muridae,91758,180362,Active,Rattus rattus,Black Rat,,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Sciuridae,89702,180170,Active,Glaucomys volans,Southern Flying Squirrel,,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Sciuridae,89665,180137,Active,Marmota monax,Woodchuck,,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Sciuridae,89707,180175,Active,Sciurus carolinensis,Northern gray squirrel,Sciurus carolinensis pennsylvanicus,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Sciuridae,89704,180172,Active,Sciurus niger,Fox Squirrel,"Sciurus niger niger, Sciurus niger vulpinus, Sciurus niger vicinus",Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Sciuridae,90667,180207,Active,Tamias striatus,Eastern Chipmunk,,Present
+SHEN,Shenandoah National Park,Mammal,1,Rodentia,Sciuridae,89697,180166,Active,Tamiasciurus hudsonicus,Red Squirrel,"Tamiasciurus hudsonicus hudsonicus, Tamiasciurus hudsonicus loquax",Present
+SHEN,Shenandoah National Park,Mammal,1,Soricomorpha,Soricidae,88683,179967,Active,Blarina brevicauda,Northern Short-tailed Shrew,"Blarina brevicauda ssp. kirtlandi, Blarina brevicauda kirtlandi",Present
+SHEN,Shenandoah National Park,Mammal,1,Soricomorpha,Soricidae,88688,179971,Active,Cryptotis parva,Least Shrew,,Present
+SHEN,Shenandoah National Park,Mammal,1,Soricomorpha,Soricidae,88122,179929,Active,Sorex cinereus,Masked Shrew,"Sorex cinereus ssp. fontinalis, Sorex cinereus fontinalis",Present
+SHEN,Shenandoah National Park,Mammal,1,Soricomorpha,Soricidae,88655,179941,Active,Sorex dispar,long-tailed shrew,,Probably Present
+SHEN,Shenandoah National Park,Mammal,1,Soricomorpha,Soricidae,88657,179943,Active,Sorex fumeus,Smoky Shrew,,Present
+SHEN,Shenandoah National Park,Mammal,1,Soricomorpha,Soricidae,88660,179946,Active,Sorex hoyi,Pygmy Shrew,,Present
+SHEN,Shenandoah National Park,Mammal,1,Soricomorpha,Soricidae,88130,179936,Active,Sorex longirostris,Southeastern Shrew,Sorex longirostris longirostris,Present
+SHEN,Shenandoah National Park,Mammal,1,Soricomorpha,Soricidae,88127,179933,Active,Sorex palustris,Water Shrew,,Present
+SHEN,Shenandoah National Park,Mammal,1,Soricomorpha,Talpidae,88680,179964,Active,Condylura cristata,Star-nosed Mole,"Condylura cristata parva, Condylura cristata ssp. parva",Present
+SHEN,Shenandoah National Park,Mammal,1,Soricomorpha,Talpidae,88694,179977,Active,Parascalops breweri,Hairy-tailed Mole,,Present
+SHEN,Shenandoah National Park,Mammal,1,Soricomorpha,Talpidae,88696,179979,Active,Scalopus aquaticus,Eastern Mole,,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern Goshawk,,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,Accipiter striatus velox,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,Rough-legged Hawk,Buteo lagopus sanctijohannis,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Accipitridae,79572,175359,Active,Buteo lineatus,Red-shouldered Hawk,Buteo lineatus lineatus,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Accipitridae,79579,175365,Active,Buteo platypterus,Broad-winged Hawk,,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,Haliaeetus leucocephalus leucocephalus,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Cathartidae,79476,175272,Active,Coragyps atratus,Black Vulture,,Present
+SHEN,Shenandoah National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,Pandion haliaetus carolinensis,Present
+SHEN,Shenandoah National Park,Bird,2,Anseriformes,Anatidae,77836,175122,Active,Aix sponsa,Wood Duck,,Present
+SHEN,Shenandoah National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,Anas crecca carolinensis,Present
+SHEN,Shenandoah National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,Anas discors orphna,Present
+SHEN,Shenandoah National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+SHEN,Shenandoah National Park,Bird,2,Anseriformes,Anatidae,77775,175068,Active,Anas rubripes,American Black Duck,,Present
+SHEN,Shenandoah National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+SHEN,Shenandoah National Park,Bird,2,Anseriformes,Anatidae,76613,174988,Active,Cygnus columbianus columbianus,Tundra Swan,,Present
+SHEN,Shenandoah National Park,Bird,2,Apodiformes,Apodidae,83046,178001,Active,Chaetura pelagica,Chimney Swift,,Present
+SHEN,Shenandoah National Park,Bird,2,Apodiformes,Trochilidae,83884,178032,Active,Archilochus colubris,Ruby-throated Hummingbird,,Present
+SHEN,Shenandoah National Park,Bird,2,Caprimulgiformes,Caprimulgidae,669787,-746237,Inactive,Antrostomus vociferus,Whip-poor-will,Caprimulgus vociferus,Present
+SHEN,Shenandoah National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+SHEN,Shenandoah National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+SHEN,Shenandoah National Park,Bird,2,Charadriiformes,Laridae,81064,176824,Active,Larus argentatus,Herring Gull,,Present
+SHEN,Shenandoah National Park,Bird,2,Charadriiformes,Laridae,81071,176830,Active,Larus delawarensis,Ring-billed gull,,Present
+SHEN,Shenandoah National Park,Bird,2,Charadriiformes,Laridae,81175,176924,Active,Sterna caspia,Caspian Tern,,Present
+SHEN,Shenandoah National Park,Bird,2,Charadriiformes,Scolopacidae,79222,176612,Active,Actitis macularia,Spotted Sandpiper,,Present
+SHEN,Shenandoah National Park,Bird,2,Charadriiformes,Scolopacidae,79220,176610,Active,Bartramia longicauda,Upland Sandpiper,,Present
+SHEN,Shenandoah National Park,Bird,2,Charadriiformes,Scolopacidae,80257,176700,Active,Gallinago gallinago,Common Snipe,,Present
+SHEN,Shenandoah National Park,Bird,2,Charadriiformes,Scolopacidae,79186,176580,Active,Scolopax minor,American Woodcock,Philohela minor,Present
+SHEN,Shenandoah National Park,Bird,2,Charadriiformes,Scolopacidae,79225,176615,Active,Tringa solitaria,Solitary Sandpiper,,Present
+SHEN,Shenandoah National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,Rock Dove,,Present
+SHEN,Shenandoah National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,Zenaida macroura carolinensis,Present
+SHEN,Shenandoah National Park,Bird,2,Coraciiformes,Alcedinidae,83966,178106,Active,Megaceryle alcyon,Belted Kingfisher,Ceryle alcyon,Present
+SHEN,Shenandoah National Park,Bird,2,Cuculiformes,Cuculidae,89102,177831,Active,Coccyzus americanus,Yellow-billed Cuckoo,,Present
+SHEN,Shenandoah National Park,Bird,2,Cuculiformes,Cuculidae,89105,177834,Active,Coccyzus erythropthalmus,Black-billed Cuckoo,,Present
+SHEN,Shenandoah National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+SHEN,Shenandoah National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Present
+SHEN,Shenandoah National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,Falco sparverius sparverius,Present
+SHEN,Shenandoah National Park,Bird,2,Galliformes,Odontophoridae,84281,175863,Active,Colinus virginianus,Northern Bobwhite,,Present
+SHEN,Shenandoah National Park,Bird,2,Galliformes,Phasianidae,83131,175790,Active,Bonasa umbellus,Ruffed Grouse,,Present
+SHEN,Shenandoah National Park,Bird,2,Galliformes,Phasianidae,86451,176136,Active,Meleagris gallopavo,Wild Turkey,Meleagris gallopavo silvestris,Present
+SHEN,Shenandoah National Park,Bird,2,Galliformes,Phasianidae,84328,175905,Active,Phasianus colchicus,Ring-necked Pheasant,,Present
+SHEN,Shenandoah National Park,Bird,2,Gruiformes,Rallidae,87212,176221,Active,Rallus limicola,Virginia Rail,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,,926917,,Inactive,Haemorhous mexicanus,House Finch,Carpodacus mexicanus,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,,926918,,Inactive,Haemorhous purpureus,Purple Finch,Carpodacus purpureus,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Calcariidae,85681,179526,Active,Calcarius lapponicus,Lapland Longspur,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Calcariidae,85688,179532,Active,Plectrophenax nivalis,Snow Bunting,Plectrophenax nivalis nivalis,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Cardinalidae,94228,179124,Active,Cardinalis cardinalis,Northern Cardinal,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Cardinalidae,628204,726198,Active,Passerina caerulea,Blue Grosbeak,"Guiraca caerulea, Guiraca caerulea caerulea",Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Cardinalidae,88071,179883,Active,Piranga olivacea,Scarlet Tanager,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Cardinalidae,88076,179888,Active,Piranga rubra,Summer Tanager,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Corvidae,87112,179737,Active,Corvus ossifragus,Fish Crow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Corvidae,86252,179680,Active,Cyanocitta cristata,Blue Jay,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,84676,179340,Active,Ammodramus henslowii,Henslow's Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,83867,179333,Active,Ammodramus savannarum,Grasshopper Sparrow,Ammodramus savannarum pratensis,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,84754,179410,Active,Junco hyemalis,Dark-eyed Junco,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,85638,179488,Active,Melospiza georgiana,Swamp Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,85612,179464,Active,Passerella iliaca,Fox Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,83803,179276,Active,Pipilo erythrophthalmus,Eastern Towhee,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,84778,179432,Active,Spizella arborea,American Tree Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,84790,179443,Active,Spizella pusilla,Field Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,85610,179462,Active,Zonotrichia albicollis,White-throated Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Emberizidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Fringillidae,95280,179230,Active,Carduelis flammea,Common Redpoll,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Fringillidae,95311,179259,Active,Loxia curvirostra,Red Crossbill,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Fringillidae,83794,179268,Active,Loxia leucoptera,White-winged Crossbill,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Fringillidae,94318,179205,Active,Pinicola enucleator,Pine Grosbeak,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Fringillidae,95297,179246,Active,Spinus pinus,Pine Siskin,Carduelis pinus,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Fringillidae,95300,179249,Active,Spinus tristis,American Goldfinch,Carduelis tristis,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,Hirundo pyrrhonota,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Hirundinidae,87427,178464,Active,Progne subis,Purple Martin,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Hirundinidae,87396,178436,Active,Riparia riparia,Bank Swallow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,Iridoprocne bicolor,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Icteridae,93599,179032,Active,Dolichonyx oryzivorus,Bobolink,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Icteridae,93664,179091,Active,Euphagus carolinus,Rusty Blackbird,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Icteridae,93655,179083,Active,Icterus galbula,Baltimore Oriole,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Icteridae,93634,179064,Active,Icterus spurius,Orchard Oriole,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Icteridae,94206,179104,Active,Quiscalus quiscula,Common Grackle,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Icteridae,93601,179034,Active,Sturnella magna,Eastern Meadowlark,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Laniidae,88273,178511,Active,Lanius excubitor,Northern Shrike,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Mimidae,89977,178625,Active,Dumetella carolinensis,Gray Catbird,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Motacillidae,87454,178489,Active,Anthus spinoletta,Water Pipit,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Paridae,266957,554138,Active,Baeolophus bicolor,Tufted Titmouse,Parus bicolor,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Paridae,265874,554382,Active,Poecile atricapillus,Black-capped Chickadee,Parus atricapillus,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Paridae,265876,554383,Active,Poecile carolinensis,Carolina Chickadee,Parus carolinensis,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773817,,Inactive,Cardellina canadensis,Canada Warbler,Wilsonia canadensis,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773781,,Inactive,Cardellina pusilla,Wilson's Warbler,Wilsonia pusilla,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,92675,178914,Active,Dendroica pinus,Pine Warbler,Setophaga pinus,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,513754,-670820,Inactive,Geothlypis formosa,Kentucky Warbler,Oporornis formosus,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,892361,,Inactive,Geothlypis philadelphia,Mourning Warbler,Oporornis philadelphia,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,Geothlypis trichas brachidactylus,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,628198,726195,Active,Helmitheros vermivorum,Worm-eating Warbler,Helmitheros vermivorus,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,Icteria virens virens,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,91012,178844,Active,Mniotilta varia,Black-and-white Warbler,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,92701,178938,Active,Oporornis agilis,Connecticut Warbler,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773769,,Inactive,Oreothlypis celata,Orange-crowned Warbler,Vermivora celata,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773770,,Inactive,Oreothlypis peregrina,Tennessee Warbler,Vermivora peregrina,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773768,,Inactive,Oreothlypis ruficapilla,Nashville Warbler,Vermivora ruficapilla,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773814,,Inactive,Parkesia motacilla,Louisiana Waterthrush,Seiurus motacilla,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773765,,Inactive,Parkesia noveboracensis,Northern Waterthrush,Seiurus noveboracensis,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,628220,726205,Active,Seiurus aurocapilla,Ovenbird,Seiurus aurocapillus,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,890949,,Inactive,Setophaga americana,Northern Parula,Parula americana,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773822,,Inactive,Setophaga caerulescens,Black-throated Blue Warbler,Dendroica caerulescens,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,890943,,Inactive,Setophaga castanea,Bay-breasted Warbler,Dendroica castanea,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,892360,,Inactive,Setophaga cerulea,Cerulean Warbler,Dendroica cerulea,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773816,,Inactive,Setophaga citrina,Hooded Warbler,Wilsonia citrina,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773779,,Inactive,Setophaga coronata,Yellow-rumped Warbler,"Dendroica coronata coronata, Dendroica coronata",Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,890945,,Inactive,Setophaga discolor,Prairie Warbler,Dendroica discolor,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,890944,,Inactive,Setophaga dominica,Yellow-throated Warbler,Dendroica dominica,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,890953,,Inactive,Setophaga fusca,Blackburnian Warbler,Dendroica fusca,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,774021,,Inactive,Setophaga magnolia,Magnolia Warbler,Dendroica magnolia,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773821,,Inactive,Setophaga palmarum,Palm Warbler,Dendroica palmarum,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773820,,Inactive,Setophaga pensylvanica,Chestnut-sided Warbler,Dendroica pensylvanica,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773778,,Inactive,Setophaga petechia,Yellow Warbler,Dendroica petechia,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773819,,Inactive,Setophaga striata,Blackpoll Warbler,Dendroica striata,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,773818,,Inactive,Setophaga tigrina,Cape May Warbler,Dendroica tigrina,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,890946,,Inactive,Setophaga virens,Black-throated Green Warbler,"Dendroica virens, Dendroica virens waynei",Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,91021,178852,Active,Vermivora chrysoptera,Golden-winged Warbler,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Parulidae,892161,,Inactive,Vermivora cyanoptera,Blue-winged Warbler,Vermivora pinus,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,Blue-gray Gnatcatcher,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned Kinglet,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Troglodytidae,88350,178581,Active,Thryothorus ludovicianus,Carolina Wren,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Troglodytidae,88312,178547,Active,Troglodytes troglodytes,Winter Wren,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Turdidae,87177,179796,Active,Catharus fuscescens,Veery,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Turdidae,87174,179793,Active,Catharus minimus,Gray-cheeked Thrush,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Turdidae,87156,179777,Active,Hylocichla mustelina,Wood Thrush,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Turdidae,87184,179801,Active,Sialia sialis,Eastern Bluebird,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,Olive-sided Flycatcher,Contopus borealis,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Tyrannidae,85846,178359,Active,Contopus virens,Eastern Wood-pewee,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Tyrannidae,85826,178340,Active,Empidonax alnorum,Alder Flycatcher,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Tyrannidae,85823,178338,Active,Empidonax flaviventris,Yellow-bellied Flycatcher,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Tyrannidae,85830,178344,Active,Empidonax minimus,Least Flycatcher,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Tyrannidae,85827,178341,Active,Empidonax traillii,Willow Flycatcher,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Tyrannidae,85824,178339,Active,Empidonax virescens,Acadian Flycatcher,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Tyrannidae,85791,178309,Active,Myiarchus crinitus,Great Crested Flycatcher,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Tyrannidae,85813,178329,Active,Sayornis phoebe,Eastern Phoebe,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Tyrannidae,85757,178279,Active,Tyrannus tyrannus,Eastern Kingbird,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Vireonidae,93573,179009,Active,Vireo flavifrons,Yellow-throated Vireo,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,Vireo gilvus gilvus,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Vireonidae,93552,178991,Active,Vireo griseus,White-eyed Vireo,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Vireonidae,93587,179021,Active,Vireo olivaceus,Red-eyed Vireo,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Vireonidae,93588,179022,Active,Vireo philadelphicus,Philadelphia Vireo,,Present
+SHEN,Shenandoah National Park,Bird,2,Passeriformes,Vireonidae,93575,179010,Active,Vireo solitarius,"Solitary Vireo, Blue-headed",Vireo solitarius alticola,Present
+SHEN,Shenandoah National Park,Bird,2,Pelecaniformes,Ardeidae,266951,554135,Active,Ardea alba,Great Egret,"Casmerodius albus egretta, Casmerodius albus",Present
+SHEN,Shenandoah National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,Ardea herodias herodias,Present
+SHEN,Shenandoah National Park,Bird,2,Pelecaniformes,Ardeidae,84508,174856,Active,Botaurus lentiginosus,American Bittern,,Present
+SHEN,Shenandoah National Park,Bird,2,Pelecaniformes,Ardeidae,84450,174803,Active,Bubulcus ibis,Cattle Egret,,Present
+SHEN,Shenandoah National Park,Bird,2,Pelecaniformes,Ardeidae,84438,174793,Active,Butorides virescens,"Green-backed Heron, Green-backed Heron, Striated Heron","Butorides striatus, Butorides striata",Present
+SHEN,Shenandoah National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-heron,Nycticorax nycticorax hoactli,Present
+SHEN,Shenandoah National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,,Present
+SHEN,Shenandoah National Park,Bird,2,Piciformes,Picidae,84833,178166,Active,Dryocopus pileatus,Pileated Woodpecker,,Present
+SHEN,Shenandoah National Park,Bird,2,Piciformes,Picidae,84865,178195,Active,Melanerpes carolinus,Red-bellied Woodpecker,,Present
+SHEN,Shenandoah National Park,Bird,2,Piciformes,Picidae,84855,178186,Active,Melanerpes erythrocephalus,Red-headed Woodpecker,,Present
+SHEN,Shenandoah National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy Woodpecker,,Present
+SHEN,Shenandoah National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,,Present
+SHEN,Shenandoah National Park,Bird,2,Piciformes,Picidae,84874,178202,Active,Sphyrapicus varius,Yellow-bellied Sapsucker,,Present
+SHEN,Shenandoah National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,Pied-billed Grebe,,Present
+SHEN,Shenandoah National Park,Bird,2,Strigiformes,Strigidae,82979,177942,Active,Aegolius acadicus,Northern Saw-whet Owl,,Present
+SHEN,Shenandoah National Park,Bird,2,Strigiformes,Strigidae,82971,177935,Active,Asio flammeus,Short-eared Owl,,Present
+SHEN,Shenandoah National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+SHEN,Shenandoah National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+SHEN,Shenandoah National Park,Bird,2,Strigiformes,Strigidae,543205,686658,Active,Megascops asio,Eastern Screech-Owl,Otus asio,Present
+SHEN,Shenandoah National Park,Bird,2,Strigiformes,Strigidae,82956,177921,Active,Strix varia,Barred Owl,,Present
+SHEN,Shenandoah National Park,Bird,2,Suliformes,Phalacrocoracidae,83421,174719,Active,Phalacrocorax auritus floridanus,Double-crested Cormorant,,Present
