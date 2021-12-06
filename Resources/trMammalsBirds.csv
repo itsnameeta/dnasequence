@@ -1,0 +1,212 @@
+﻿Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Antilocapridae,95067,180717,Active,Antilocapra americana,"PRONGHORN ANTELOPE, PRONGHORN/ANTELOPE",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Bovidae,107797,203618,Active,Bos bison,"American bison, American Bison, bison",Bison bison,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Bovidae,86816,183838,Active,Bos taurus,DOMESTIC CATTLE/LONGHORN,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Bovidae,95061,180711,Active,Ovis canadensis,bighorn sheep,Ovis canadensis californiana,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Cervidae,95052,180703,Active,Alces alces,MOOSE,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Cervidae,95042,180695,Active,Cervus elaphus,"ELK, WAPITI/ELK",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,MULE DEER,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Artiodactyla,Cervidae,95046,180699,Active,Odocoileus virginianus,"WHITE-TAIL DEER, WHITE-TAILED DEER",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,COYOTE,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,RED FOX,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,BOBCAT,Felis rufus,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,mountain lion,Felis concolor,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,STRIPED SKUNK,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,"LONGTAIL WEASEL, LONG-TAILED WEASEL",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Mustelidae,93291,180554,Active,Mustela nivalis,LEAST WEASEL,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Mustelidae,93290,180553,Active,Mustela vison,MINK,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,BADGER,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,RACCOON,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,BIG BROWN BAT,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,SILVER-HAIRED BAT,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,HOARY BAT,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,"Eastern Small-footed Bat, Eastern Small-footed Myotis, Small-footed Myotis",Myotis leibii,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,LONG-EARED MYOTIS,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88706,179988,Active,Myotis lucifugus,LITTLE BROWN MYOTIS,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88722,180000,Active,Myotis septentrionalis,Keen's Myotis,Myotis keenii,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,LONG-LEGGED MYOTIS,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Lagomorpha,Leporidae,89644,180118,Active,Lepus townsendii,"JACK RABBIT, PRAIRIE HARE, WHITE-TAILED JACKRABBIT",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,"COTTONTAIL, DESERT COTTONTAIL",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Lagomorpha,Leporidae,89651,180124,Active,Sylvilagus floridanus,EASTERN COTTONTAIL,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Lagomorpha,Leporidae,89653,180126,Active,Sylvilagus nuttallii,NUTTALL'S COTTONTAIL,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Perissodactyla,Equidae,95038,180691,Active,Equus caballus,"FERAL HORSE, HORSE, WILD HORSE/FERAL HORSE",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,BEAVER,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,91703,180312,Active,Microtus ochrogaster,PRAIRIE VOLE,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,90766,180297,Active,Microtus pennsylvanicus,MEADOW VOLE,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,BUSHY-TAILED WOODRAT,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,MUSKRAT,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,NORTHERN GRASSHOPPER MOUSE,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,90745,180278,Active,Peromyscus leucopus,WHITE-FOOTED MOUSE,Peromyscus leucopus aridulus,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,DEER MOUSE,Peromyscus maniculatus osgoodi,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,WESTERN HARVEST MOUSE,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Dipodidae,91784,180386,Active,Zapus hudsonius,MEADOW JUMPING MOUSE,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,PORCUPINE,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Geomyidae,90690,180228,Active,Thomomys talpoides,NORTHERN POCKET GOPHER,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Heteromyidae,90726,180260,Active,Perognathus fasciatus,OLIVE-BACKED POCKET MOUSE,,Probably Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,HOUSE MOUSE,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Sciuridae,90643,180186,Active,Cynomys ludovicianus,"BLACK-TAIL PRAIRIE DOG, BLACK-TAILED PRAIRIE DOG, PRAIRIE DOG",,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Sciuridae,89704,180172,Active,Sciurus niger,FOX SQUIRREL,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Sciuridae,89683,180153,Active,Spermophilus franklinii,FRANKLIN GROUND SQUIRREL,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Sciuridae,89693,180162,Active,Spermophilus tridecemlineatus,THIRTEEN-LINED GROUND SQUIRREL,,Present
+THRO,Theodore Roosevelt National Park,Mammal,1,Rodentia,Sciuridae,90653,180195,Active,Tamias minimus,LEAST CHIPMUNK,Eutamias minimus,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern Goshawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,Accipiter striatus striatus,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,80391,175373,Active,Buteo lagopus,Rough-legged Hawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's hawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77836,175122,Active,Aix sponsa,Wood Duck,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77806,175096,Active,Anas clypeata,Northern Shoveler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77795,175086,Active,Anas discors,Blue-winged Teal,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77781,175073,Active,Anas strepera,Gadwall,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,78531,175145,Active,Bucephala albeola,Bufflehead,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Anseriformes,Anatidae,77742,175038,Active,Chen caerulescens,Snow Goose,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Apodiformes,Trochilidae,83884,178032,Active,Archilochus colubris,Ruby-throated Hummingbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Laridae,81064,176824,Active,Larus argentatus,Herring Gull,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Scolopacidae,631809,726049,Active,Actitis macularius,Spotted Sandpiper,Actitis macularia,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Scolopacidae,79220,176610,Active,Bartramia longicauda,Upland Sandpiper,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Scolopacidae,79200,176593,Active,Numenius americanus,Long-billed Curlew,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Scolopacidae,80296,176736,Active,Phalaropus tricolor,Wilson's Phalarope,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Charadriiformes,Scolopacidae,79231,176620,Active,Tringa flavipes,Lesser Yellowlegs,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,Rock Pigeon,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Coraciiformes,Alcedinidae,83980,178119,Active,Ceryle alcyon,Belted Kingfisher,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Cuculiformes,Cuculidae,89105,177834,Active,Coccyzus erythropthalmus,Black-billed Cuckoo,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Galliformes,Phasianidae,86451,176136,Active,Meleagris gallopavo,Wild Turkey,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Galliformes,Phasianidae,84339,175915,Active,Perdix perdix,Gray Partridge,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Galliformes,Phasianidae,84328,175905,Active,Phasianus colchicus,Ring-necked Pheasant,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Galliformes,Phasianidae,83188,175841,Active,Tympanuchus phasianellus,Sharp-tailed Grouse,Pedioecetes phasianellus,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Gruiformes,Gruidae,86496,176177,Active,Grus canadensis,Sandhill Crane,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Bombycillidae,88292,178529,Active,Bombycilla garrulus,Bohemian Waxwing,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Calcariidae,85681,179526,Active,Calcarius lapponicus,Lapland Longspur,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Calcariidae,85686,179530,Active,Calcarius ornatus,Chestnut-collared Longspur,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Calcariidae,85688,179532,Active,Plectrophenax nivalis,Snow Bunting,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Cardinalidae,628204,726198,Active,Passerina caerulea,Blue Grosbeak,Guiraca caerulea,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Cardinalidae,94273,179165,Active,Spiza americana,Dickcissel,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Corvidae,86252,179680,Active,Cyanocitta cristata,Blue Jay,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Corvidae,626506,726117,Active,Pica hudsonia,Black-billed Magpie,Pica pica,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,84674,179339,Active,Ammodramus bairdii,Baird's Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,83867,179333,Active,Ammodramus savannarum,Grasshopper Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,83844,179312,Active,Calamospiza melanocorys,Lark Bunting,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,84754,179410,Active,Junco hyemalis,Dark-eyed Junco,"Junco hyemalis hyemalis, Junco hyemalis oreganus",Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,265870,554380,Active,Pipilo maculatus,Spotted Towhee,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,84778,179432,Active,Spizella arborea,American Tree Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,84785,179439,Active,Spizella pallida,Clay-colored Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,84790,179443,Active,Spizella pusilla,Field Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Emberizidae,84802,179454,Active,Zonotrichia querula,Harris's Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,95280,179230,Active,Carduelis flammea,Common Redpoll,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,95281,179231,Active,Carduelis hornemanni,Hoary Redpoll,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine Siskin,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,95286,179236,Active,Carduelis tristis,American Goldfinch,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,94296,179186,Active,Carpodacus purpureus,Purple Finch,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,1005332,997805,Active,Haemorhous mexicanus,House Finch,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,94329,179215,Active,Leucosticte tephrocotis,Gray-crowned Rosy-Finch,Leucosticte arctoa,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Fringillidae,94318,179205,Active,Pinicola enucleator,Pine Grosbeak,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,Hirundo pyrrhonota,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Hirundinidae,87396,178436,Active,Riparia riparia,Bank Swallow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93599,179032,Active,Dolichonyx oryzivorus,Bobolink,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93664,179091,Active,Euphagus carolinus,Rusty Blackbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's Oriole,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93634,179064,Active,Icterus spurius,Orchard Oriole,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,94206,179104,Active,Quiscalus quiscula,Common Grackle,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Icteridae,93611,179043,Active,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Laniidae,88273,178511,Active,Lanius excubitor,Northern Shrike,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Mimidae,89977,178625,Active,Dumetella carolinensis,Gray Catbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Motacillidae,87465,178499,Active,Anthus spragueii,Sprague's Pipit,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Paridae,266957,554138,Active,Baeolophus bicolor,Tufted Titmouse,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Paridae,265874,554382,Active,Poecile atricapillus,Black-capped Chickadee,Parus atricapillus,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,Yellow Warbler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,91012,178844,Active,Mniotilta varia,Black-and-white Warbler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92702,178939,Active,Oporornis philadelphia,Mourning Warbler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,628220,726205,Active,Seiurus aurocapilla,Ovenbird,Seiurus aurocapillus,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern Waterthrush,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned Warbler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Parulidae,92740,178973,Active,Wilsonia pusilla,Wilson's Warbler,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Turdidae,87177,179796,Active,Catharus fuscescens,Veery,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Turdidae,87168,179788,Active,Catharus ustulatus,Swainson's Thrush,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Turdidae,87184,179801,Active,Sialia sialis,Eastern Bluebird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Tyrannidae,85830,178344,Active,Empidonax minimus,Least Flycatcher,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Pheobe,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Tyrannidae,85757,178279,Active,Tyrannus tyrannus,Eastern Kingbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Vireonidae,93573,179009,Active,Vireo flavifrons,Yellow-throated Vireo,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Vireonidae,93587,179021,Active,Vireo olivaceus,Red-eyed Vireo,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Passeriformes,Vireonidae,266908,554477,Active,Vireo plumbeus,"Plumbeous Vireo, New Name",,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-Heron,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Pelecaniformes,Pelecanidae,83382,174684,Active,Pelecanus erythrorhynchos,American White Pelican,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Piciformes,Picidae,84855,178186,Active,Melanerpes erythrocephalus,Red-headed Woodpecker,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy Woodpecker,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Podicipediformes,Podicipedidae,81712,174505,Active,Podilymbus podiceps,Pied-billed Grebe,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,82979,177942,Active,Aegolius acadicus,Northern Saw-whet Owl,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,82971,177935,Active,Asio flammeus,Short-eared Owl,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,82983,177946,Active,Athene cunicularia,Burrowing Owl,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,543953,686683,Active,Bubo scandiacus,Snowy Owl,Nyctea scandiaca,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,543207,686659,Active,Megascops kennicottii,Western Screech-Owl,Otus kennicottii,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Strigiformes,Strigidae,82956,177921,Active,Strix varia,Barred Owl,,Present
+THRO,Theodore Roosevelt National Park,Bird,2,Suliformes,Phalacrocoracidae,83419,174717,Active,Phalacrocorax auritus,Double-crested Cormorant,,Present
