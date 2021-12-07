@@ -1,18 +1,18 @@
-Place_Name,Latitude,Longitude
-"Rocky Mountain National Park, Colorado, USA",40.343182,-105.688103
-"Katmai National Park and Preserve, King Salmon, AK, USA",58.597813,-154.693756
-"Glacier Bay National Park and Preserve, Alaska, USA",58.665806,-136.900208
-"Channel Islands National Park, Ventura, CA, USA",33.998028,-119.772949
-"Denali National Park and Preserve, Alaska, USA",63.129887,-151.197418
-"Mount Rainier National Park, Washington, USA",46.879967,-121.726906
-"Great Smoky Mountains National Park, Tennessee, USA",35.611763,-83.489548
-"Yosemite National Park, California, USA",37.865101,-119.53833
-"Shenandoah National Park, Shenandoah, VA, USA",38.700516,-78.292694
-"Everglades National Park, Florida, USA",25.286615,-80.898651
-"Yellowstone National Park, USA",44.423691,-110.588516
-"Olympic National Park, WA, USA",47.802109,-123.604355
-Grand Teton National Park USA,43.472554,-110.405435
-"Isle Royale National Park, USA",47.5945114,-88.5433444
-"Virgin Islands National Park, USA",18.35149859,-64.76849693
-"Glacier National Park, USA",48.7596128,-113.787022
-"Theodore Roosevelt National Park, USA",47.2394596,-103.6243599
+Code ,Place_Name,Latitude,Longitude
+ROMO,Rocky Mountain National Park,40.343182,-105.688103
+KATM,Katmai National Park and Preserve,58.597813,-154.693756
+GLBA,Glacier Bay National Park and Preserve,58.665806,-136.900208
+CHIS,Channel Islands National Park,33.998028,-119.772949
+DENA,Denali National Park and Preserve,63.129887,-151.197418
+MORA,Mount Rainier National Park,46.879967,-121.726906
+GRSM,Great Smoky Mountains National Park,35.611763,-83.489548
+YOSE,Yosemite National Park,37.865101,-119.53833
+SHEN,Shenandoah National Park,38.700516,-78.292694
+EVER,Everglades National Park,25.286615,-80.898651
+YELL,Yellowstone National Park,44.423691,-110.588516
+OLYM,Olympic National Park,47.802109,-123.604355
+GRTE,Grand Teton National Park,43.472554,-110.405435
+ISRO,Isle Royale National Park,47.5945114,-88.5433444
+VIIS,Virgin Islands National Park,18.35149859,-64.76849693
+GLAC,Glacier National Park,48.7596128,-113.787022
+,Theodore Roosevelt National Park,47.2394596,-103.6243599
