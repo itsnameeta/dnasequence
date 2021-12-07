@@ -1,4 +1,4 @@
-﻿Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+﻿Code,Place_Name,Category,Sort,OrderName,FamilyName,Taxon,TSN,TaxonRecordStatus,ScientificName,CommonNames,Synonyms,Occurrence
 CHIS,Channel Islands National Park,Mammal,1,Carnivora,Canidae,93354,180610,Active,Urocyon littoralis,Channel Islands Gray Fox,"Urocyon littoralis littoralis, Urocyon littoralis santacruzae, Urocyon littoralis santarosae",Present
 CHIS,Channel Islands National Park,Mammal,1,Carnivora,Mephitidae,154133,-501824,Inactive,Spilogale gracilis amphiala,Spotted Skunk,,Present
 CHIS,Channel Islands National Park,Mammal,1,Carnivora,Mustelidae,107235,202390,Active,Enhydra lutris nereis,Sea Otter,,Present
