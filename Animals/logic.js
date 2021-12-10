@@ -13,10 +13,31 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   accessToken: API_KEY
 }).addTo(myMap);
 
-// Country data
+//connect to database 
+var pg = require("pg");
+
+var connectionString = "postgres://postgres:AppleBanana12!@Servers/ip:25068/parks";
+
+var pgClient = new pg.Client(connectionString);
+pgClient.connect();
+
+var query = pgClient.query("SELECT * FROM animal_locations'");
+
+query.on("row", function(row,result){
+
+  result.addRow(row);
+  
+  });
+
+
+
+// Animal data
+
 var animals = [
   {
     name: "Rocky Mountain National Park, Colorado",
+    park: park
+    
     location: [40.343182, -105.688103]
   },
   {
@@ -41,3 +62,4 @@ for (var i = 0; i < animals.length; i++) {
     .addTo(myMap);
 }
 
+pgClient.end();
