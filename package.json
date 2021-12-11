@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/itsnameeta/Project2-DataVisualisation#readme",
   "dependencies": {
+    "csvtojson": "^2.0.10",
+    "mongodb": "^4.2.1",
     "pg": "^8.7.1"
   }
 }
