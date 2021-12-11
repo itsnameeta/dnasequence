@@ -13,44 +13,16 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   accessToken: API_KEY
 }).addTo(myMap);
 
-//connect to database 
-var pg = require("pg");
-
-var connectionString = "postgres://postgres:AppleBanana12!@Servers/ip:25068/parks";
-
-var pgClient = new pg.Client(connectionString);
-pgClient.connect();
-
-var query = pgClient.query("SELECT * FROM animal_locations'");
-
-query.on("row", function(row,result){
-
-  result.addRow(row);
-  
-  });
-
-
+//connect to data
+var animalData = 'Resources/AnimalLocations.csv'
 
 // Animal data
 
 var animals = [
   {
-    name: "Rocky Mountain National Park, Colorado",
-    park: park
-    
-    location: [40.343182, -105.688103]
-  },
-  {
-    name: "Katmai National Park and Preserve, King Salmon",
-    location: [58.597813,	-154.693756]
-  },
-  {
-    name: "Glacier Bay National Park and Preserve, Alaska",
-    location: [58.665806,	-136.900208]
-  },
-  {
-    name: "Channel Islands National Park, Ventura, CA",
-    location: [33.998028,	-119.77294]
+    animal_name: animalData.CommonNames,
+    park: animalData.Place_Name,
+    location: [animalData.Latitude, animalData.Longitude]
   },
 ];
 
