@@ -1,0 +1,23 @@
+{
+  "name": "project2-datavisualisation",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/itsnameeta/Project2-DataVisualisation/edit/main/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnameeta/Project2-DataVisualisation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsnameeta/Project2-DataVisualisation/issues"
+  },
+  "homepage": "https://github.com/itsnameeta/Project2-DataVisualisation#readme",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}
