@@ -14,24 +14,37 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 }).addTo(myMap);
 
 //connect to data
-var animalData = 'Resources/AnimalLocations.csv'
+// var animalData = '../../Resources/AnimalLocations.csv'
 
-// Animal data
+// console.log(animalData);
 
-var animals = [
-  {
-    animal_name: animalData.CommonNames,
-    park: animalData.Place_Name,
-    location: [animalData.Latitude, animalData.Longitude]
-  },
-];
+// // Animal data
 
-// Loop through the cities array and create one marker for each city, bind a popup containing its name and population add it to the map
-for (var i = 0; i < animals.length; i++) {
-  var animals = animals[i];
-  L.marker(animals.location)
-    .bindPopup("<h1>" + animals.name + "</h1>" )
-    .addTo(myMap);
+// var animals = [
+//   {
+//     animal_name: animalData.CommonNames,
+//     park: animalData.Place_Name,
+//     location: [animalData.Latitude, animalData.Longitude]
+//   },
+// ];
+
+function render_animals(animals) {
+  console.log(animals);
+
+  for (var i = 0; i < animals.length; i++) {
+    var animals = animals[i];
+    L.marker(animals.location)
+      .bindPopup("<h1>" + animals.name + "</h1>" )
+      .addTo(myMap);
+  }
 }
 
-pgClient.end();
+// Loop through the cities array and create one marker for each city, bind a popup containing its name and population add it to the map
+// for (var i = 0; i < animals.length; i++) {
+//   var animals = animals[i];
+//   L.marker(animals.location)
+//     .bindPopup("<h1>" + animals.name + "</h1>" )
+//     .addTo(myMap);
+// }
+
+// pgClient.end();

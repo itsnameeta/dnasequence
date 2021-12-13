@@ -47,7 +47,7 @@
         <nav class="nav nav-masthead justify-content-center">
           <!--<a class="nav-link" href="Parks/parks.html">Parks</a> -->
           <a class="nav-link" href="{{ url_for('get_parks') }}"> Parks</a>
-          <a class="nav-link" href="Parks/animals.html">Animals</a>
+          <a class="nav-link" href="{{ url_for('get_animals') }}"> Animals</a>
         </nav>
       </div>
     </header>
@@ -61,7 +61,7 @@
 – National Park Service 
       </p>
        <p class="lead">
-        <a href="Parks/parks.html" class="btn btn-lg btn-secondary">Explore The Wild!</a>
+        <a href= "{{ url_for('get_parks') }}" class="btn btn-lg btn-secondary">Explore The Wild!</a>
       </p>
     </main>
     <!-- Footer Section -->

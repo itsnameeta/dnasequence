@@ -1,6 +1,7 @@
 from flask import Flask
 from flask import render_template
 import psycopg2
+import csv
 
 app = Flask(__name__)
 #connect to db
@@ -40,20 +41,19 @@ def get_parks():
         pasksList.append(temp)
 
     print(pasksList) 
+    return render_template("parks.html", parks=pasksList)
+@app.route("/animals")
+def get_animals():
+    print("in get cursor function")
 
 
-    # for i in range(len(result2)) : 
-    #     temp = {}
-    #     temp['name'] = 
-    #     for j in range(len(result2[i])) : 
-    #         if j == 0:
-    #             result2[i][j] = result2[i][j] + 1
-    #         print(result2[i][j], end=" ")
-    #     print() 
+    with open('AnimalLocations.csv', newline='') as f:
+        reader = csv.reader(f)
+        data = list(reader)
 
-
-    # pass updated list for rendering
-    return render_template("parks.html", parks=pasksList)    
+    print(data)
+    
+    return render_template("animals.html", animals=data)  
    
 # Close the database cursor and connection
 
