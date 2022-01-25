@@ -6,13 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="generator" content="Jekyll v4.0.1">
-  <title>Movies</title>
+  <title>DNA</title>
   <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/cover/">
-  
   <!-- Bootstrap CSS -->
-  <!-- <link href="/templates/bootstrap.css" rel="stylesheet"> -->
   <link ... href="{{ url_for('static', filename='styles/bootstrap.css') }}" rel="stylesheet"/>
-
 
     <style>
       .bd-placeholder-img {
@@ -33,8 +30,8 @@
     </style>
 
   <!-- Custom CSS for template -->
-  <!-- <link href="styles/cover.css" rel="stylesheet"> -->
   <link ... href="{{ url_for('static', filename='styles/cover.css') }}" rel="stylesheet"/>
+  
 </head>
 
 <body class="text-center">
@@ -42,26 +39,25 @@
     <!-- Navigation Section -->
     <header class="masthead mb-auto">
       <div class="inner">
-        <h2 class="masthead-brand"><a class="nav-link active" href="index.html">U.S. National Parks</a></h2>
+        <h2 class="masthead-brand"><a class="nav-link active" href="{{ url_for('get_index') }}"> iGenome</a></h2>
+
        
         <nav class="nav nav-masthead justify-content-center">
-          <!--<a class="nav-link" href="Parks/parks.html">Parks</a> -->
-          <a class="nav-link" href="{{ url_for('get_parks') }}"> Parks</a>
-          <a class="nav-link" href="{{ url_for('get_animals') }}"> Animals</a>
+          <a class="nav-link" href="{{ url_for('get_intro') }}"> Sample DNA Report</a>
         </nav>
       </div>
     </header>
     <!-- Text -->
     <main role="main" class="cover latitude">
-      <h2> What Is A National Park? </h2> 
+      <h2> An Insight To Your Genes!   </h2> 
       <br>
       <p class="lead" id="littlep"> 
-        “Generally, a national park contains a variety of resources and encompasses large land or water areas to help provide adequate protection of the resources.”
-<br>
-– National Park Service 
+        “These DNA insights are for people who care about the future of their health. Be your own health expert!
+        With this report, you get expert recommendations so you can navigate your health like never before.”
+<br> 
       </p>
        <p class="lead">
-        <a href= "{{ url_for('get_parks') }}" class="btn btn-lg btn-secondary">Explore The Wild!</a>
+        <a class="nav-link" href="{{ url_for('get_upload') }}"> Upload a FASTA file for DNA analysis</a>
       </p>
     </main>
     <!-- Footer Section -->
